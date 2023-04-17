@@ -1,27 +1,27 @@
 #include <iostream>
 using namespace std;
 
-const int n = 5;//объявление размера матрицы, n-константа
+const int n = 5;//size of matrix
 
 void sort(int matrix[][n], int column) {
     for (int i = 0; i < column; i++) {
-        if (i % 2 == 0) { // сортировка по возрастанию
+        if (i % 2 == 0) { // from larger to less
             for (int j = 1; j < n; j++) {
-                int key = matrix[j][i];//задание матрицы
+                int key = matrix[j][i];//set our matrix
                 int k = j - 1;
-                while (k >= 0 && matrix[k][i] > key) {//условие сортировки и проверка на четность
-                    matrix[k + 1][i] = matrix[k][i];//меняем больший элемент на меньший
+                while (k >= 0 && matrix[k][i] > key) {//check for key and 2i
+                    matrix[k + 1][i] = matrix[k][i];//changing larger element on less
                     k--;
                 }
                 matrix[k + 1][i] = key;
             }
         }
-        else { // по убыванию
+        else { // from less to larger
             for (int j = 1; j < n; j++) {
                 int key = matrix[j][i];
                 int k = j - 1;
                 while (k >= 0 && matrix[k][i] < key) {
-                    matrix[k + 1][i] = matrix[k][i];//меняем меньший элемент на больший
+                    matrix[k + 1][i] = matrix[k][i];//changing less element on larger
                     k--;
                 }
                 matrix[k + 1][i] = key;
