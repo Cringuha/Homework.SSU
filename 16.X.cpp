@@ -1,121 +1,106 @@
 //stack
 #include <iostream>
 #include <stack>
+#include <algorithm>
+#include <fstream>
 using namespace std;
+
 int main() {
-    stack<int> numbers;
-    int n;
-    cout << "enter n";
-    cin >> n;
-    for (int i = 0; i < n; i++) {
-        numbers.push(n);
-    }
+	stack<int> numbers,newNumbers;
+	int maxVal=INT_MIN;
+	ifstream in("Input.txt");
+	ofstream out("Output.txt");
+	while (in.peek() != EOF) {
+		int num;
+		in >> num;
+		numbers.push(num);
+		maxVal = max(maxVal, num);
+	}
 
-    // max element
-    int max = numbers.top();
-    while (!numbers.empty()) {
-        if (numbers.top() > max) {
-            max = numbers.top();
-        }
-        numbers.pop();
-    }
-    cout << "Максимальный элемент: " << max << std::endl;
-
-    // deleting max elements
-    stack<int> newNumbers;
-    while (!numbers.empty()) {
-        if (numbers.top() != max) {
-            newNumbers.push(numbers.top());
-        }
-        numbers.pop();
-    }
-    numbers = newNumbers;
-
-    // out new stack
-    cout << "Список без максимального элемента: ";
-    while (!numbers.empty()) {
-        cout << numbers.top() << " ";
-        numbers.pop();
-    }
-    cout << endl;
-    system("pause");
-    return 0;
+	// out new stack
+	cout << "stack without max: ";
+	while (!numbers.empty()) {
+		if (numbers.top() == maxVal) {
+			numbers.pop();
+		}
+		else {
+			newNumbers.push(numbers.top());
+			numbers.pop();
+		}
+	}
+	while (!newNumbers.empty()) {
+		out << newNumbers.top() << ' ';
+		newNumbers.pop();
+	}
+	system("pause");
+	return 0;
 }
+
 
 //list
 #include <iostream>
 #include <list>
+#include <algorithm>
+#include <fstream>
+
 using namespace std;
 int main() {
-    list<int> numbers;
-    int n;
-    cout << "enter n ";
-    cin >> n;
+	list<int> numbers;
+	ifstream in("Input.txt");
+	ofstream out("Output.txt");
+	while (in.peek() != EOF) {
+		int num;
+		in >> num;
+		numbers.push_back(num);
+	}
 
-    for (int i = 0; i < n; i++) {
-        int num;
-        cin >> num;
-        numbers.push_back(num);
-    }
+	// finding max element
+	int max = *max_element(numbers.begin(), numbers.end());
 
-    // finding max element
-    int max = *max_element(numbers.begin(), numbers.end());
-    cout << "max element: " << max << endl;
+	// deleting max element
+	numbers.remove(max);
 
-    // deleting max element
-    numbers.remove(max);
-
-    // out new list
-    cout << "list without max element: ";
-    for (int num : numbers) {
-        cout << num << " ";
-    }
-    cout << std::endl;
-
-    return 0;
+	for (int num : numbers) {
+		out << num << " ";
+	}
+	out << endl;
+	system("pause");
+	return 0;
 }
+
 
 //queue
 #include <iostream>
 #include <queue>
+#include<fstream>
+
 using namespace std;
 
 int main() {
-    queue<int> numbers;
-    int n;
-    cout << "enter n: ";
-    cin >> n;
-    for (int i = 0; i < n; i++) {
-        numbers.push(n);
-    }
-
-    // find max element
-    int max = numbers.front();
-    while (!numbers.empty()) {
-        if (numbers.front() > max) {
-            max = numbers.front();
-        }
-        numbers.pop();
-    }
-     cout << "max element: " << max <<  endl;
-
-    // deleting max elements
-     queue<int> newNumbers;
-    for (int i = 0; i < n; i++) {
-        int num = n;
-        if (num != max) {
-            newNumbers.push(num);
-        }
-    }
-    numbers = newNumbers;
-
-    // out new queue
-     cout << "queue without max element: ";
-    while (!numbers.empty()) {
-        cout << numbers.front() << " ";
-        numbers.pop();
-    }
-    cout <<  endl;
-
-    return 0;
+	queue<int> q;
+	int maxVal = INT_MIN;
+	ifstream in("Input.txt");
+	ofstream out("Output.txt");
+	while(in.peek()!=EOF) {
+		int x;
+		in >> x;
+		q.push(x);
+		if (x > maxVal) {
+			maxVal = x;
+		}
+	}
+	int size = q.size();
+	for (int i = 0; i < size; i++) {
+		int x = q.front();
+		q.pop();
+		if (x != maxVal) {
+			q.push(x);
+		}
+	}
+	while (!q.empty()) {
+		out << q.front() << " ";
+		q.pop();
+	}
+	system("pause");
+	return 0;
 }
