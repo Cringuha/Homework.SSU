@@ -1,0 +1,1145 @@
+2013-Volume 37
+Issues 1-2
+Amel Ben Abda, Imen Ben Saad, Maatoug Hassine 	Recovering boundary data: The Cauchy Stokes system
+A. El-Gohary, Ahmad Alshamrani, Adel Naif Al-Otaibi 	The generalized Gompertz distribution
+Farhad Hosseinzadeh Lotfi, Mohsen Rostamy-Malkhalifeh, Nazila Aghayi, Zahra Ghelej Beigi, Kobra Gholami 	An improved method for ranking alternatives in multiple criteria decision analysis
+C. Veeramani, R.J. 	Spiteri Modeling and simulation of the CLS cryogenic system
+Parham A. Mirzaei, Manouchehr Rad 	Toward design and fabrication of wind-driven vehicles: Procedure to optimize the threshold of driving forces
+Milad Gorji Ashtiani, Ahmad Makui, Reza Ramezanian 	A robust model for a leader–follower competitive facility location problem in a discrete space
+Jun Huang, Zhengzhi Han 	Adaptive non-fragile observer design for the uncertain Lur’e differential inclusion system
+Saeed-Reza Sabbagh-Yazdi, Tayebeh Amiri-SaadatAbadi	GFV solution on UTE mesh for transient modeling of concrete aging effects on thermal plane strains during construction of gravity dam
+Sookyun Wang, Jung Hyun Choi	Simulating fate and transport of chromium in saturated sediments
+Zhongliang Yue	An avoiding information loss approach to group decision making
+S. Cheng, J.C. Ji, J. Zhou	Fast synchronization of directionally coupled chaotic systems
+Union H.-N. Huynh, Neale L. Fulton	Aircraft proximity termination conditions in the planar turn centric modes
+R.K. Mohanty, M.K. Jain, Deepika Dhall	High accuracy cubic spline approximation for two dimensional quasi-linear elliptic boundary value problems
+M.S. Malashetty, Premila Kollur, W. Sidram 	Effect of rotation on the onset of double diffusive convection in a Darcy porous medium saturated with a couple stress fluid
+Hongwei Jiao, Zhankui Wang, Yongqiang Chen	Global optimization algorithm for sum of generalized polynomial ratios problem
+M.A. Doheim, A.F. Abdel Gawad, G.M.A. Mahran, M.H. Abu-Ali, A.M. Rizk	Numerical simulation of particulate-flow in spiral separators: Part I. Low solids concentration (0.3% & 3% solids)
+G. Tohidi, S. Razavyan	A circular global profit Malmquist productivity index in data envelopment analysis
+S. Tariverdilo, M. Shahmardani, J. Mirzapour, R. Shabani	Asymmetric free vibration of circular plate in contact with incompressible fluid
+A. Guria, B. Das, S. Mondal, M. Maiti	Inventory policy for an item with inflation induced purchasing price, selling price and demand with immediate part payment
+A.Y. Bani Hashim, N.A. Abu Osman, W.A.B. Wan Abas, L. Abdul Latif Approximating the relationship among the degree of the reaction forces and the nodes on footprint during a stance phase
+R.T. Faal, A.R. Pasrad, A.S. Milani	Anti-plane stress analysis of dissimilar sectors with multiple defects
+K. Muralidharan, Sridhar Muddada, B.S.V. Patnaik	Numerical simulation of vortex induced vibrations and its control by suction and blowing
+Chin-Chih Chang, Shey-Huei Sheu, Yen-Luan Chen	Optimal replacement model with age-dependent failure type based on a cumulative repair-cost limit policy
+Jian Wu, Qing-wei Cao	Same families of geometric aggregation operators with intuitionistic trapezoidal fuzzy numbers
+Majid Ramezani, Mahdi Bashiri, Reza Tavakkoli-Moghaddam	A new multi-objective stochastic model for a forward/reverse logistic network design with responsiveness and quality level
+Wen-Xiu Li, Sheng-Jie Liu, Ji-Fei Li, Zhan-Hua Ji, ... Xia Yin	Ground movement analysis in deep iron mine using fuzzy probability theory
+A.R. Khoei, M. Eghbalian, H. Moslemi, H. Azadi	Crack growth modeling via 3D automatic adaptive mesh refinement based on modified-SPR technique
+Deepak Kumar, Vivek Kumar, V.P. Singh	Modeling and dynamic simulation of mixed feed multi-effect evaporators in paper industry
+Majid Zerafat Angiz, Adli Mustafa, Mohammad Jalal Kamali	Cross-ranking of Decision Making Units in Data Envelopment Analysis
+D.W. Grimble, S. Theodossiades, H. Rahnejat, M. Wilby	Thin film tribology of pharmaceutical elastomeric seals
+B. Boubir, H. Triki, A.M. Wazwaz	Bright solitons of the variants of the Novikov–Veselov equation with constant and variable coefficients
+M. Heydari, Z. Avazzadeh, H. Navabpour, G.B. Loghmani	Numerical solution of Fredholm integral equations of the second kind by using integral mean value theorem II. High dimensional problems
+A.R. Khoei, S.O.R. Biabanaki, S.M. Parvaneh	3D dynamic modeling of powder forming processes via a simple and efficient node-to-surface contact algorithm
+Manik Chandra Singh, Nilratan Chakraborty	Reflection and refraction of P-, SV- and thermal wave, at an initially stressed solid–liquid interface in generalized thermoelasticity
+Yanjun Liu, Feng Ding	Convergence properties of the least squares estimation algorithm for multivariable systems
+Xu Wang	On a partially debonded rigid line inclusion penetrating a circular inhomogeneity
+Hua Wang, Dingguo Pu	A nonmonotone filter trust region method for the system of nonlinear equations
+Mazaher Salamat-talab, Farhad Shahabi, Abbas Assadi	Size dependent analysis of functionally graded microbeams using strain gradient elasticity incorporated with surface energy
+Sofen K. Jena, Swarup K. Mahapatra	Numerical modeling of interaction between surface radiation and natural convection of atmospheric aerosol in presence of transverse magnetic field
+Mingliang Zhang, C.W. Li, Yongming Shen	Depth-averaged modeling of free surface flows in open channels with emerged and submerged vegetation
+K. Davey, R. Prosser	Analytical solutions for heat transfer on fractal and pre-fractal domains
+H. Saghi, M.J. Ketabdari, M. Zamirian	A novel algorithm based on parameterization method for calculation of curvature of the free surface flows
+Xiaodong Wang, Fei Li, Quan Yang, Anrui He	FEM analysis for residual stress prediction in hot rolled steel strip during the run-out table cooling
+Issue 3	
+Sergey Leble, Anna Perelomova	Problem of proper decomposition and initialization of acoustic and entropy modes in a gas affected by the mass force
+Jie Ding, Hong Gu, Zhigui Lin	Fundamental results on the reaction–diffusion equations associated with a PEPA model
+Ji-Bo Wang, Jian-Jun Wang	Single-machine scheduling with precedence constraints and position-dependent processing times
+Alessandro Gambini, Giovanni Mingari Scarpello, Daniele Ritelli	Mathematical properties of EOQ models with special cost structure
+Muhammad Aslam, Chien-Wei Wu, Muhammad Azam, Chi-Hyuck Jun	Variable sampling inspection for resubmitted lots based on process capability index Cpk for normally distributed items
+Imran Aziz, Siraj-ul-Islam, Božidar Šarler	Wavelets collocation methods for the numerical solution of elliptic BV problems
+Chongyang Liu, Zhaohua Gong, Bangyu Shen, Enmin Feng	Modelling and optimal control for a fed-batch fermentation process
+Chong Li, Sifeng Liu	A robust optimization approach to reduce the bullwhip effect of supply chains with vendor order placement lead time delays in an uncertain environment
+Lama Moussawi-Haidar, Moueen Salameh, Walid Nasr	An instantaneous replenishment model under the effect of a sampling policy for defective items
+Pengzhan Huang, Xinlong Feng, Yinnian He	Two-level defect-correction Oseen iterative stabilized finite element methods for the stationary Navier–Stokes equations
+Zhi-zhong Sun, Zai-bin Zhang	A linearized compact difference scheme for a class of nonlinear delay partial differential equations
+Yang Woo Shin, Dug Hee Moon	Approximation of M/M/s/K retrial queue with nonpersistent customers
+Hany H. Sherief, Nasser M. El-Maghraby, Allam A. Allam	Stochastic thermal shock problem in generalized thermoelasticity
+A.I. Abreu, A. Canelas, W.J. Mansur	A CQM-based BEM for transient heat conduction problems in homogeneous materials and FGMs
+Huy Tuan Nguyen, Quoc Viet Tran, Van Thinh Nguyen	Some remarks on a modified Helmholtz equation with inhomogeneous source
+Jan Galicki, Michał Czech	A new approach to formulate the general strength theories for anisotropic discontinuous materials. Part A: The experimental base for a new approach to formulate the general strength theories for anisotropic materials on the basis of wood
+Jan Galicki	“A new approach to formulate the general strength theories for anisotropic discontinuous materials” Part B General form of polynomial to describe the strength of anisotropic discontinuous materials
+K. Parand, Mehdi Dehghan, F. Baharifard		Solving a laminar boundary layer equation with the rational Gegenbauer functions
+Changcong Zhou, Zhenzhou Lu, Luyi Li, Jun Feng, Bintuan Wang	A new algorithm for variance based importance analysis of models with correlated inputs
+S.V. Utyuzhnikov	Numerical and laboratory prediction of smoke lofting in the atmosphere over large area fires
+Nagesh Shukla, Yogesh Dashora, M.K. Tiwari, Ravi Shankar	Design of computer network topologies: A Vroom Inspired Psychoclonal Algorithm
+Md. Samsuzzoha, Manmohan Singh, David Lucy	Uncertainty and sensitivity analysis of the basic reproduction number of a vaccinated epidemic model of influenza
+Chih-Ping Wu, Cheng-Hsin Kuo	A unified formulation of PVD-based finite cylindrical layer methods for functionally graded material sandwich cylinders
+Liu Yang, Jian-Ning Yu, Guan-Wei Luo, Zui-Cha Deng	Numerical identification of source terms for a two dimensional heat conduction problem in polar coordinate system
+Chesoong Kim, Sergey Dudin, Olga Taramin, Janghyun Baek		Queueing system with impatient heterogeneous customers as a model of call center
+Yunus Demir, S. Kürşat İşleyen	Evaluation of mathematical models for flexible job-shop scheduling problems
+Haiyan Xu, D. Marc Kilgour, Keith W. Hipel, Edward A. McBean	Theory and application of conflict resolution with hybrid preference in colored graphs
+Ibrahim A. Baky, Mahmoud A. Abo-Sinna	TOPSIS for bi-level MODM problems
+S. Salahshour, T. Allahviranloo		Application of fuzzy differential transform method for solving fuzzy Volterra integral equations
+Mehdi Dehghan, Mania Sabouri	A Legendre spectral element method on a large spatial domain to solve the predator–prey system modeling interacting populations
+T. Wei, Y.G. Chen, J.C. Liu	A variational-type method of fundamental solutions for a Cauchy problem of Laplace’s equation
+Zengji Du, Yansen Lv	Permanence and almost periodic solution of a Lotka–Volterra model with mutual interference and time delays
+Xiao-Guang Lv, Ting-Zhu Huang, Zong-Ben Xu, Xi-Le Zhao	A special Hermitian and skew-Hermitian splitting method for image restoration
+Tamer Nabil	Complex diffusion filtering of three dimensional turbulent flows
+Bo Fang, Ya-Xin Zhen, Chi-Ping Zhang, Ye Tang	Nonlinear vibration analysis of double-walled carbon nanotubes based on nonlocal elasticity theory
+Cheng-Hung Huang, Ming-Yuan Lee, Sin Kim	An inverse problem in determining the acid and salt diffusivities simultaneously for polymer solution in a wet spinning process
+Saeed Kazem	An integral operational matrix based on Jacobi polynomials for solving fractional-order differential equations
+Li Zhang, Ning Wang	A modified DNA genetic algorithm for parameter estimation of the 2-Chlorophenol oxidation in supercritical water
+R. Venkata Rao, Vivek Patel	Multi-objective optimization of heat exchangers using a modified teaching-learning-based optimization algorithm
+S.A.A. Hosseini, M. Zamanian	Analytical solution for general nonlinear continuous systems in a complex form
+T. Allahviranloo, F. Hosseinzadeh Lotfi, M. Khorasani Kiasari, M. Khezerloo	On the fuzzy solution of LR fuzzy linear systems
+Connie Yang, Wen-Bin Young	The effective permeability of the underfill flow domain in flip-chip packaging
+Shakeel Safdar, Andrew J. Pinkerton, Lin Li, Mohammed A. Sheikh, Philip J. Withers	An anisotropic enhanced thermal conductivity approach for modelling laser melt pools for Ni-base super alloys
+Jiankang Liu, Zhoushun Zheng	IIM-based ADI finite difference scheme for nonlinear convection–diffusion equations with interfaces
+Jacek Smolka, Zbigniew Bulinski, Adam Fic, Andrzej J. Nowak, ... Armin Hafner	A computational model of a transcritical R744 ejector based on a homogeneous real fluid approach
+Abigail L. Bowers, Tae-Yeon Kim, Monika Neda, Leo G. Rebholz, Eliot Fried	The Leray--deconvolution model: Energy analysis and numerical algorithms
+Jyh-Haw Wang, Jason Sheng-Hong Tsai, Jian-Syun Huang, Shu-Mei Guo, Leang-San Shieh	A low-order active fault-tolerant state space self-tuner for the unknown sampled-data nonlinear singular system using OKID and modified ARMAX model-based system identification
+M. Omar, R. Sarker, W.A.M. Othman	A just-in-time three-level integrated manufacturing system for linearly time-varying demand process
+V.A. Patil, V.A. Sawant, Kousik Deb	2-D finite element analysis of rigid pavement considering dynamic vehicle–pavement interaction effects
+Ioannis Dimitriou	A mixed priority retrial queue with negative arrivals, unreliable server and multiple vacations
+M. Fossati, I. Piedra-Cueva	A 3D hydrodynamic numerical model of the Río de la Plata and Montevideo’s coastal zone
+Shuhn-Shyurng Hou	Analysis of a stagnation-point premixed flame influenced by inert spray, heat loss, and non-unity Lewis number
+V.J.da C. Farias, B.R.P. da Rocha, M.P.da C. da Rocha, H.R. Tavares	The use of the fractal model to complex resistivity in the interpretation of induced polarization data
+Reaz A. Chaudhuri, A. Sinan Oktem, C. Guedes Soares	Stress concentration/intensity around elliptical/circular cylinder shaped surface flaws in cross-ply plates and validity of St. Venant’s principle in the presence of interacting singularities
+A. Sinan Oktem, Veysel Alankaya, C. Guedes Soares	Boundary-discontinuous Fourier analysis of simply supported cross-ply plates
+Xianyu Yu, Yulin Zhang, Dehua Xu, Yunqiang Yin	Single machine scheduling problem with two synergetic agents and piece-rate maintenance
+Yuming Chen, Fengqin Zhang	Dynamics of a delayed predator–prey model with predator migration
+Wenting Shao, Xionghua Wu	Chebyshev tau meshless method based on the highest derivative for fourth order equations
+S. Shahriari, I.G. Hassan, L. Kadem	Modeling unsteady flow characteristics using smoothed particle hydrodynamics
+R. Ellahi	The effects of MHD and temperature dependent viscosity on the flow of non-Newtonian nanofluid in a pipe: Analytical solutions
+K. Ramakrishnan, G. Ray	Robust stability criteria for a class of uncertain discrete-time systems with time-varying delay
+Hai-Feng Huo, Li-Xiang Feng	Global stability for an HIV/AIDS epidemic model with different latent stages and treatment
+Li Cai, Yufeng Nie, Wenxian Xie, Weiwei Zhang	Numerical path integration method based on bubble grids for nonlinear dynamical systems
+Jie Wei, Jing Zhao	Reverse channel decisions for a fuzzy closed-loop supply chain
+Fatemeh Rostami, Mahdi Shahrokhi, Md Azlin Md Saod, Saeed Reza Sabbagh Yazdi	RETRACTED: Numerical simulation of undular hydraulic jump on smooth bed using volume of fluid method
+Radosław Rudek	On single processor scheduling problems with learning dependent on the number of processed jobs
+Xinhua Hou, Lian Duan, Zuda Huang	Permanence and periodic solutions for a class of delay Nicholson’s blowflies models
+S.O. Duffuaa, A. El-Ga’aly	A multi-objective mathematical optimization model for process targeting using 100% inspection policy
+T.Y. Pai, G.S. Shyu, L. Chen, H.M. Lo, ... S.C. Tseng	Modelling transportation and transformation of nitrogen compounds at different influent concentrations in sewer pipe
+Shan Gao, Zaiming Liu	An M/G/1 queue with single working vacation and vacation interruption under Bernoulli schedule
+T.L. Fernando, V.N. Phat, H.M. Trinh	Output feedback guaranteed cost control of uncertain linear discrete systems with interval time-varying delays
+Issue 4
+Wen-Yu He, Wei-Xin Ren	Trigonometric wavelet-based method for elastic thin plate analysis
+Wen-Ying Wang	Optimum production and inspection modeling with minimal repair and rework considerations
+R.K. Deka, A. Paul	Stability of Taylor–Couette and Dean flow: A semi-analytical study
+Yan Gu, Wen Chen	Infinite domain potential problems by a new formulation of singular boundary method
+Yanina Fumero, Gabriela Corsano, Jorge M. Montagna	A Mixed Integer Linear Programming model for simultaneous design and scheduling of flowshop plants
+Sebastián Lozano, Ester Gutiérrez, Plácido Moreno	Network DEA approach to airports performance assessment considering undesirable outputs
+Manjot Kaur, Amit Kumar	Optimal compromise solution of multi-objective minimal cost flow problems in fuzzy environment
+Feng Ding	Hierarchical multi-innovation stochastic gradient algorithm for Hammerstein nonlinear system modeling
+K. Nandakumar, Marian Wiercigroch	Galerkin projections for state-dependent delay differential equations with applications to drilling
+Magdy A. Sirwah, Kadry Zakaria	Nonlinear evolution of the travelling waves at the surface of a thin viscoelastic falling film
+J.K. Jha, Kripa Shanker	Single-vendor multi-buyer integrated production-inventory model with controllable lead time and service level constraints
+Yuanyuan Liu, Yiqiang Q. Zhao	Asymptotic behavior of the loss probability for an M/G/1/N queue with vacations
+Behnam Vahdani, S. Meysam Mousavi, R. Tavakkoli-Moghaddam, H. Hashemi	A new design of the elimination and choice translating reality method for multi-criteria group decision-making in an intuitionistic fuzzy environment
+Emad E. Elmahdy, Abdallah W. Aboutahoun	A new approach for parameter estimation of finite Weibull mixture distributions for reliability modeling
+J.R. Artalejo, T. Phung-Duc	Single server retrial queues with two way communication
+Takashi Nagatani	Nonlinear-map model for bus schedule in capacity-controlled transportation
+Keivan Kiani	Vibration behavior of simply supported inclined single-walled carbon nanotubes conveying viscous fluids flow using nonlocal Rayleigh beam model
+S. Moradi, A. Yeganeh, M. Salimi	CFD-modeling of effects of draft tubes on operating condition in spouted beds
+Jie Bao, Laura Schaefer	Lattice Boltzmann equation model for multi-component multi-phase flow with high density ratios
+A. Gholam Abri	An investigation on the sensitivity and stability radius of returns to scale and efficiency in data envelopment analysis
+Vahid Majazi Dalfard	New mathematical model for problem of dynamic cell formation based on number and average length of intra and intercellular movements
+Chong Li	Controlling the bullwhip effect in a supply chain system with constrained information flows
+Pengzhan Huang, Xinlong Feng, Demin Liu	A stabilized finite element method for the time-dependent Stokes equations based on Crank–Nicolson Scheme
+Basant K. Jha, Clement A. Apere	Unsteady MHD two-phase Couette flow of fluid–particle suspension
+Pezhman A. Hassanpour, Patricia M. Nieva, Amir Khajepour	Electrostatic fringes effect in systems with three charged parallel micro-beams
+E.L. Chen, W.T. Ang	Special Green’s function boundary element approach for steady-state axisymmetric heat conduction across low and high conducting planar interfaces
+Rui-hong Li, Wei-sheng Chen, Shuang Li	Finite-time stabilization for hyper-chaotic Lorenz system families via adaptive control
+Bing Bai, Tao Li	Irreversible consolidation problem of a saturated porothermoelastic spherical body with a spherical cavity
+T.E. Simos	New open modified Newton Cotes type formulae as multilayer symplectic integrators
+P.M. Rubesh Anand, Vidhyacharan Bhaskar	A unified trust management strategy for content sharing in Peer-to-Peer networks
+Danyu Bai, Lixin Tang	Open shop scheduling problem to minimize makespan with release dates
+Marco Meyer, Lidiya Komsiyska, Bettina Lenz, Carsten Agert	Study of the local SOC distribution in a lithium-ion battery by physical and electrochemical modeling and simulation
+Pradip Kundu, Samarjit Kar, Manoranjan Maiti	Multi-objective multi-item solid transportation problem in fuzzy environment
+Wei-Qi Zhou, Long Chen, Hui-Ming Ge	A multi-product multi-echelon inventory control model with joint replenishment strategy
+W. Piekarska, M. Kubiak	Modeling of thermal phenomena in single laser beam and laser-arc hybrid welding processes using projection method
+Xiang Li, Dechun Wang, Keping Li, Ziyou Gao	A green train scheduling model and fuzzy multi-objective optimization algorithm
+Raphaëlle Naar, François Bay	Numerical optimisation for induction heat treatment processes
+Şuayip Yüzbaşı, Mehmet Sezer, Bayram Kemancı	Numerical solutions of integro-differential equations and application of a population model with an improved Legendre method
+S.A.A. Hosseini	Analytical approximation of weakly nonlinear continuous systems using renormalization group method
+P.H. Wen, M.H. Aliabadi	Analytical formulation of meshless local integral equation method
+M. Babaei, M. Sheidaii	Optimal design of double layer scallop domes using genetic algorithm
+Yejun Xu, Ravi Patnayakuni, Huimin Wang	Logarithmic least squares method to priority for group decision making with incomplete fuzzy preference relations
+Lijuan Wang	Almost periodic solution for Nicholson’s blowflies model with patch structure and linear harvesting terms
+Piotr Kulczycki, Malgorzata Charytanowicz	Conditional parameter identification with different losses of under- and overestimation
+M. Vynnycky	On the role of radiative heat transfer in air gaps in vertical continuous casting
+A.A.M. Arafa, S.Z. Rida, M. Khalil	The effect of anti-viral drug treatment of human immunodeficiency virus type 1 (HIV-1) described by a fractional order model
+Na Chen, Zeshui Xu, Meimei Xia	Correlation coefficients of hesitant fuzzy sets and their applications to clustering analysis
+Daniel Weisz-Patrault, Alain Ehrlacher, Nicolas Legrand	Analytical inverse solution for coupled thermoelastic problem for the evaluation of contact stress during steel strip rolling
+Deshabrata Roy Mahapatra, Sankar Kumar Roy, Mahendra Prasad Biswal	Multi-choice stochastic transportation problem involving extreme value distribution
+Seyed Mohsen Mousavi, Vahid Hajipour, Seyed Taghi Akhavan Niaki, Najmeh Alikar	Optimizing multi-item multi-period inventory control system with discounted cash flow and inflation: Two calibrated meta-heuristic algorithms
+Francisco Angel-Bello, Ada Alvarez, Irma García	Two improved formulations for the minimum latency problem
+Mehdi Soltanifar, Gholam Reza Jahanshahloo, Farhad Hosseinzadeh Lotfi, Seyyed Mehdi Mansourzadeh	On efficiency in convex hull of DMUs
+Zhang Lang, Li Xuewu	Buckling and vibration analysis of functionally graded magneto-electro-thermo-elastic circular cylindrical shells
+Ji-Bo Wang, Chou-Jung Hsu, Dar-Li Yang	Single-machine scheduling with effects of exponential learning and general deterioration
+Masoud Yaghini, Mohsen Momeni, Mohammadreza Sarmadi	An improved local branching approach for train formation planning
+H. Rafiei, R. Ghodsi	A bi-objective mathematical model toward dynamic cell formation considering labor utilization
+Kun-Jen Chung	The EOQ model with defective items and partially permissible delay in payments linked to order quantity derived analytically in the supply chain management
+Xinyuan Wu, Bin Wang, Kai Liu, Hua Zhao	ERKN methods for long-term integration of multidimensional orbital problems
+Hossein Hosseinzadeh, Mehdi Dehghan, Davoud Mirzaei	The boundary elements method for magneto-hydrodynamic (MHD) channel flows at high Hartmann numbers
+N. Antoni	Contact separation and failure analysis of a rotating thermo-elastoplastic shrink-fit assembly
+Ji-Bo Wang, Jian-Jun Wang	Scheduling jobs with a general learning effect model
+Salem M. Al-Yakoob, Hanif D. Sherali	A column generation approach for determining optimal fleet mix, schedules, and transshipment facility locations for a vessel transportation problem
+Xue-Ru Wang, Jian-Jun Wang	Single-machine scheduling with convex resource dependent processing times and deteriorating jobs
+Gregory L. Boylan, Paul L. Goethals, Byung Rae Cho	Robust parameter design in resource-constrained environments: An investigation of trade-offs between costs and precision within variable processes
+Fahimeh Hosseiniebalam, Smaeyl Hassanzadeh, Omid Ghaffarpasand	Dispersion and deposition mechanisms of particles suspended in a turbulent plane Couette flow
+Peide Liu	Some geometric aggregation operators based on interval intuitionistic uncertain linguistic variables and their application to group decision making
+Hamid Reza Nazif, Hassan Basirat Tabrizi	Development of boundary transfer method in simulation of gas–solid turbulent flow of a riser
+Le Hoa Nguyen, Keum-Shik Hong	Adaptive synchronization of two coupled chaotic Hindmarsh–Rose neurons by controlling the membrane potential of a slave neuron
+Chun Yin, Sara Dadras, Shou-ming Zhong, YangQuan Chen	Control of a novel class of fractional-order chaotic systems via adaptive sliding mode control approach
+Chang-Hua Lien, Ker-Wei Yu, Long-Yeu Chung, Jenq-Der Chen	H∞ performance for uncertain discrete switched systems with interval time-varying delay via switching signal design
+Chenfu Yi, Yuhuan Chen, Xinhua Lan	Comparison on neural solvers for the Lyapunov matrix equation with stationary 
+ nonstationary coefficients
+T.-P. Chang	On the natural frequency of transversely isotropic magneto-electro-elastic plates in contact with fluid
+Shouetsu Itou	Stress intensity factors for three cracks at the interfaces of a graded layer bonding two different materials
+N. Manavizadeh, A. Hasani Goodarzi, M. Rabbani, F. Jolai	Order acceptance/rejection policies in determining the sequence in mixed model assembly lines
+Jinbiao Wu, Jianxin Wang, Zaiming Liu	A discrete-time Geo/G/1 retrial queue with preferred and impatient customers
+Lavanya Gowrishankar, Vidhyacharan Bhaskar	Performance evaluation of a single queue capable of handling two like jobs as a single entity
+Issue 5
+Tsung-Han Chang, Shu-Chen Hsu, Tien-Chin Wang	A proposed model for measuring the aggregative risk degree of implementing an RFID digital campus system with the consistent fuzzy preference relations
+Sıdıka Şule Şener, Yeşim Saraç, Murat Subaşı	Weak solutions to hyperbolic problems with inhomogeneous Dirichlet and Neumann boundary conditions
+Haw-Long Lee, Tien-Hsing Lai, Wen-Lih Chen, Yu-Ching Yang	An inverse hyperbolic heat conduction problem in estimating surface heat flux of a living skin tissue
+Ying Yu, Ji Zhu, Chenwei Wang		A newsvendor model with fuzzy price-dependent demand
+Mahesha Narayana, Faiz G. Awad, Precious Sibanda	Free magnetohydrodynamic flow and convection from a vertical spinning cone with cross-diffusion effects
+H. Liang, L. Sun, Z. Zong, L. Zhou, L. Zou		Analytical modelling for a three-dimensional hydrofoil with winglets operating beneath a free surface
+Y. Khan, H. Vázquez-Leal, N. Faraz	An auxiliary parameter method using Adomian polynomials and Laplace transformation for nonlinear differential equations
+Yalçın Öztürk, Mustafa Gülsu	A numerical approach for solving initial-boundary value problem describing the process of cooling of a semi-infinite body by radiation
+Hui-Ling Yang, Chun-Tao Chang	A two-warehouse partial backlogging inventory model for deteriorating items with permissible delay in payment under inflation
+Dongbing Tong, Wuneng Zhou, Yan Gao, Chuan Ji, Hongye Su	H model reduction for port-controlled Hamiltonian systems
+Shih-Hsin Chen, Min-Chih Chen, Pei-Chann Chang, V. Mani	Multiple parents crossover operators: A new approach removes the overlapping solutions for sequencing problems
+Ingenuin Gasser, Martin Rybicki	Modelling and simulation of gas dynamics in an exhaust pipe
+Ata Allah Taleizadeh, Hui-Ming Wee, Seyed Gholamreza Jalali-Naini	Economic production quantity model with repair failure and limited capacity
+Sh. Shahrokhabadi, M.M. Toufigh	The solution of unconfined seepage problem using Natural Element Method (NEM) coupled with Genetic Algorithm (GA)
+Rajib Mahamud, Chanwoo Park	Spatial-resolution, lumped-capacitance thermal model for cylindrical Li-ion batteries under high Biot number conditions
+R.K. Mohanty, Venu Gopal	A new off-step high order approximation for the solution of three-space dimensional nonlinear wave equations
+Tung-Yi Lin, Chieh-Li Chen	Analysis of electroosmotic flow with periodic electric and pressure fields via the lattice Poisson–Boltzmann method
+Yu.V. Obnosov	An 
+-linear conjugation problem for a plane two-component heterogeneous structure with an array of periodically distributed sinks/sources
+Ammar M. Sarhan, Abd EL-Baset A. Ahmad, Ibtesam A. Alasbahi	Exponentiated generalized linear exponential distribution
+Seshasai Srinivasan, M. Ziad Saghir	Modeling of thermotransport phenomenon in metal alloys using artificial neural networks
+Kuo-Hsiung Wang, Cheng-Dar Liou, Yu-Hsueh Lin	Comparative analysis of the machine repair Problem with imperfect coverage and service pressure condition
+Renato Spigler, Roberta Zerbetto	Random perturbations effects on the stability of Tension Leg Platforms in offshore engineering and of other large structures
+Achchhe Lal, K.R. Jagtap, B.N. Singh	Post buckling response of functionally graded materials plate subjected to mechanical and thermal loadings with random material properties
+Sonali Swain, Swati Mohanty	A 3-dimensional Eulerian–Eulerian CFD simulation of a hydrocyclone
+Kinjal R. Patel, Manoj N. Mehta, Twinkle R. Patel	A mathematical model of imbibition phenomenon in heterogeneous porous media during secondary oil recovery process
+Kousik Deb, Sunil Ranjan Mohapatra	Analysis of stone column-supported geosynthetic-reinforced embankments
+Arkadiusz Jamrozik, Wojciech Tutak, Arkadiusz Kociszewski, Marcin Sosnowski	Numerical simulation of two-stage combustion in SI engine with prechamber
+Xuejuan Li, Jie Ouyang, Tao Jiang, Binxin Yang	Integration modified wavelet neural networks for solving thin plate bending problem
+Suh-Jenq Yang	Unrelated parallel-machine scheduling with deterioration effects and deteriorating multi-maintenance activities for minimizing the total completion time
+R. Malki, A.J. Williams, T.N. Croft, M. Togneri, I. Masters	A coupled blade element momentum – Computational fluid dynamics model for evaluating tidal stream turbine performance
+Jenn-Shyang Kuo, Jik Chang Leong	Analysis of a conducting fluid in a thin annulus with rotating insulated walls under radial magnetic effect
+Mia Bondelind, Srdjan Sasic, Lars Bergdahl	A model to estimate the size of aggregates formed in a Dissolved Air Flotation unit
+Yunfei Lv, Rong Yuan, Yongzhen Pei	A prey-predator model with harvesting for fishery resource with reserve area
+M. Shariyat, M.M. Alipour	A power series solution for vibration and complex modal stress analyses of variable thickness viscoelastic two-directional FGM circular plates on elastic foundations
+Eric S.-C. Fan, Markus Bussmann	Piecewise linear volume tracking in spherical coordinates
+Xue-yong Zhou, Jing-an Cui	Threshold dynamics for a cholera epidemic model with periodic transmission rate
+Hao Guo, Zuntao Fu, Shikuo Liu	Exact coherent structures in the (2 + 1)-dimensional KdV equations
+Yanbing Ju, Aihua Wang	Extension of VIKOR method for multi-criteria group decision making problem with linguistic information
+Behdin Vahedi-Nouri, Parviz Fattahi, Mohammad Rohaninejad, Reza Tavakkoli-Moghaddam	Minimizing the total completion time on a single machine with the learning effect and multiple availability constraints
+Biswajit Sarkar	A production-inventory model with probabilistic deterioration in two-echelon supply chain management
+M. Esmaeilbeigi, M.M. Hosseini	A dynamic meshless method for the least squares problem with some noisy subdomains
+A. Khojasteh, M. Rahimian, M. Eskandari	Three-dimensional dynamic Green’s functions in transversely isotropic tri-materials
+Xiaoxu Zhou, Brian G. Thomas, C. Alberto Hernández B., A. Humberto Castillejos E., F. Andrés Acosta G.	Measuring heat transfer during spray cooling using controlled induction-heating experiments and computational models
+Erick de Moraes Franklin	Three-dimensional sand ripples as the product of vortex instability
+Madhab Mondal, Amit Kumar Maity, Manas Kumar Maiti, Manoranjan Maiti	A production-repairing inventory model with fuzzy rough coefficients under inflation and time value of money
+Şuayip Yüzbaşı	A numerical approximation for Volterra’s population growth model with fractional order
+Peyman Yazdanpanah Moghadam, Masoud Tahani, Ali Mohammad Naserian-Nik	Analytical solution of piezolaminated rectangular plates with arbitrary clamped/simply-supported boundary conditions under thermo-electro-mechanical loadings
+Osman Rasit Isik	Spin up problem and accelerating convergence to steady state
+Behnam Vahdani, Reza Tavakkoli-Moghaddam, Fariborz Jolai	Reliable design of a logistics network under uncertainty: A fuzzy possibilistic-queuing model
+Huu-Tai Thai, Thuc P. Vo	A new sinusoidal shear deformation theory for bending, buckling, and vibration of functionally graded plates
+Sneh Lata, Amit Kumar	A new method for solving differential equations with vague parameters
+Hsien-Jen Lin	Reducing lost-sales rate on the stochastic inventory model with defective goods for the mixtures of distributions
+Shahin Gelareh, Nelson Maculan, Philippe Mahey, Rahimeh Neamatian Monemi	Hub-and-spoke network design and fleet deployment for string planning of liner shipping
+Hairong Feng, Jun Li, Da Zhao	Retailer’s optimal replenishment and payment policies in the EPQ model under cash discount and two-level trade credit policy
+Shine-Der Lee, Chin-Ming Yang	An economic production quantity model with a positive resetup point under random demand
+S. Mashayekhi, Y. Ordokhani, M. Razzaghi	Hybrid functions approach for optimal control of systems described by integro-differential equations
+Cheng-Tang Zhang, Li-Ping Liu	Research on coordination mechanism in three-level green supply chain under non-cooperative game
+M.M.E. Alemany, Francisco-Cruz Lario, A. Ortiz, F. Gómez	Available-To-Promise modeling for multi-plant manufacturing characterized by lack of homogeneity in the product: An illustration of a ceramic case
+M. Mansoori Kermani, M. Dehestani	Solving the nonlinear equations for one-dimensional nano-sized model including Rydberg and Varshni potentials and Casimir force using the decomposition method
+Emine Demet Mecit, Ihsan Alp	A new proposed model of restricted data envelopment analysis by correlation coefficients
+S. Tomasiello	Stability and accuracy of DQ-based step-by-step integration methods for structural dynamics
+Yang-Kuei Lin	Fast LP models and algorithms for identical jobs on uniform parallel machines
+Zhibo Yang, Xuefeng Chen, Xingwu Zhang, Zhengjia He	Free vibration and buckling analysis of plates using B-spline wavelet on the interval Mindlin element
+Xin Zhang, Fang Jin, Peide Liu	A grey relational projection method for multi-attribute decision making based on intuitionistic trapezoidal fuzzy number
+Roza Tarpagkou, Asterios Pantokratoras	CFD methodology for sedimentation tanks: The effect of secondary phase on fluid phase using DPM coupled calculations
+Mohsen Asle Zaeem, Hebi Yin, Sergio D. Felicelli	Modeling dendritic solidification of Al–3%Cu using cellular automaton and phase-field methods
+Yrjö Jun Huang, Ole Jørgen Nydal, Yuexia Wang	Body fitted link-cell algorithm for particulate flow simulation in curved pipeline domain
+Mahdi Bashiri, Masoud Mirzaei, Marcus Randall	Modeling fuzzy capacitated p-hub center problem and a genetic algorithm solution
+F. Mohri, N. Damil, M. Potier-Ferry Buckling and lateral buckling interaction in thin-walled beam-column elements with mono-symmetric cross sections
+M. Mabssout, M.I. Herreros	Runge–Kutta vs Taylor-SPH: Two time integration schemes for SPH with application to Soil Dynamics
+Vincent Charles, Pankaj Gupta	Optimization of chance constraint programming with sum-of-fractional objectives – An application to assembled printed circuit board problem
+Abbas Assadi	Size dependent forced vibration of nanoplates with consideration of surface effects
+Rajeev, M.S. Kushwaha	Homotopy perturbation method for a limit case Stefan problem governed by fractional diffusion equation
+Issue 6
+Chung-Yuan Dye, Tsu-Pang Hsieh	Joint pricing and ordering policy for an advance booking system with partial order cancellations
+Assma F. Elsayed	Comparison between variational iteration method and homotopy perturbation method for thermal diffusion and diffusion thermo effects of thixotropic fluid through biological tissues with laser radiation existence
+Ching-Ter Chang, Hsiao-Ching Chou	A coordination system for seasonal demand problems in the supply chain
+Manlio De Domenico, Mohammad Ali Ghorbani, Oleg Makarynskyy, Dina Makarynska, Hakimeh Asadi	Chaos and reproduction in sea level
+Zhihua Xie	Two-phase flow modelling of spilling and plunging breaking waves
+N.A. Hassan, S.A. Hoda Ibrahim	Analysis of multi-level queueing systems with servers breakdown by using recursive solution technique
+Li Tao, Zhizhong Wang, Zaiming Liu	The GI/M/1 queue with Bernoulli-schedule-controlled vacation and vacation interruption
+Wenhui Zhou, Zhaotong Lian, Wei Xu, Weixiang Huang	A two-stage queueing network with MAP inputs and buffer sharing
+Yingqi Zhang, Caixia Liu	Observer-based finite-time 
+ control of discrete-time Markovian jump systems
+Juraj Kyselica	Evolution of the solidification front of a binary mixture
+Houbao Xu, Weiwei Hu	Analysis and approximation of a reliable model
+Min Zhou, Junqing Yang, Hongchan Zheng, Weijie Song
+K.O. Okosun, O.D. Makinde, I. Takaidza	Impact of optimal control on the treatment of HIV/AIDS and screening of unaware infectives
+Houria Triki, Abdul-Majid Wazwaz	On soliton solutions for the Fitzhugh–Nagumo equation with time-dependent coefficients
+K. Asan Mohideen, G. Saravanakumar, K. Valarmathi, D. Devaraj, T.K. Radhakrishnan	Real-coded Genetic Algorithm for system identification and tuning of a modified Model Reference Adaptive Controller for a hybrid tank system
+Xinhui Wang, Xianyu Wang, Yingsheng Su	Wholesale-price contract of supply chain with information gathering
+Yan Ma, Wei-qi Liu, Ji-hong Li	Equilibrium balking behavior in the 
+ queueing system with multiple vacations
+C. Sreenivasan, Srinivas R. Chakravarthy, A. Krishnamoorthy	MAP/PH/1 queue with working vacations, vacation interruptions and N policy
+İbrahim Çelik	Haar wavelet approximation for magnetohydrodynamic flow equations
+Shujing Gao, Fumin Zhang, Yuying He	The effects of migratory bird population in a nonautonomous eco-epidemiological model
+B. Kafash, A. Delavarkhalafi, S.M. Karbassi	Application of variational iteration method for Hamilton–Jacobi–Bellman equations
+Gai-li Xu, Fang Liu	An approach to group decision making based on interval multiplicative and fuzzy preference relations by using projection
+Luis González	Intrinsic ordering, combinatorial numbers and reliability engineering
+Olga Martin	On the homotopy analysis method for solving a particle transport equation
+H. El Qarnia, A. Draoui, E.K. Lakhal	Computation of melting with natural convection inside a rectangular enclosure heated by discrete protruding heat sources
+Mohamad Y. Jaber, Simone Zanoni, Lucio E. Zavanella	An entropic economic order quantity (EnEOQ) for items with imperfect quality
+D.A. Bistrian	Mathematical and numerical treatment of instabilities of non-axisymmetric confined vortices under the Dirichlet boundary conditions
+Shigeki Matsutani, Yoshiyuki Shimosako, Yunhong Wang	Numerical computations of conductivity over agglomerated continuum percolation models
+Shikha Gaur, L.P. Singh, Vivek Singh, P.K. Singh	Wavelet based multiscale scheme for two-dimensional advection–dispersion equation
+M.M. Khader, Talaat S. El Danaf, A.S. Hendy	A computational matrix method for solving systems of high order fractional differential equations
+Jie Ding, Chunxia Fan, Jinxing Lin	Auxiliary model based parameter estimation for dual-rate output error systems with colored noise
+Qibin Fan, Yanxin Wang, Li Zhu	Complexity analysis of spatial–temporal precipitation system by PCA and SDLE
+A.A. Foroughi	A revised and generalized model with improved discrimination for finding most efficient DMUs in DEA
+D. Arumuga Perumal, Anoop K. Dass	Application of lattice Boltzmann method for incompressible viscous flows
+R.R. Bhargava, Kamlesh Jangid	Strip-saturation model for piezoelectric plane weakened by two collinear cracks with coalesced interior zones
+Bimal Kumar Mishra, Neha Keshri	Mathematical model on the transmission of worms in wireless sensor network
+Shu-ping Wan	Power average operators of trapezoidal intuitionistic fuzzy numbers and application to multi-attribute group decision making
+Masoud Yaghini, Zahra Khandaghabadi	A hybrid metaheuristic algorithm for dynamic rail car fleet sizing problem
+Tingquan Deng, Xiaofei Wang	An object-parameter approach to predicting unknown data in incomplete fuzzy soft sets
+Shahrokh Hosseini-Hashemi, Masoud Derakhshani, Mohammad Fadaee	An accurate mathematical study on the free vibration of stepped thickness circular/annular Mindlin functionally graded plates
+Saman Hassanzadeh Amin, Guoqing Zhang	A multi-objective facility location model for closed-loop supply chain network under uncertain demand and return
+Penghong Zhong, Shu Wang, Boling Guo	Some blowup solutions about two systems derived from Landau–Lifshitz–Gilbert equation
+Huiwen Chen, Jianli Li, Zhimin He	The existence of subharmonic solutions with prescribed minimal period for forced pendulum equations with impulses
+D. Carswell, D. McBride, T.N. Croft, A.K. Slone, ... G. Foster	A CFD model for the prediction of haemolysis in micro axial left ventricular assist devices
+Y.H. Kang, C.M. Zheng	Mathematical modelling of chip thickness in micro-end- milling: A Fourier modelling
+Mehmet Merdan	A numeric–analytic method for time-fractional Swift–Hohenberg (S–H) equation with modified Riemann–Liouville derivative
+A.D. Rao, Mourani Sinha, Sujit Basu	Bay of Bengal wave forecast based on genetic algorithm: A comparison of univariate and multivariate approaches
+A.H. Bhrawy, M.M. Tharwat, A. Yildirim	A new formula for fractional integrals of Chebyshev polynomials: Application for solving multi-term fractional differential equations
+Saptarshi Das, Indranil Pan, Kaushik Halder, Shantanu Das, Amitava Gupta	LQR based improved discrete PID controller design via optimum selection of weighting matrices using fractional order integral performance index
+Huimin Zhang	Some interval-valued 2-tuple linguistic aggregation operators and application in multiattribute group decision making
+E. Tohidi, A.H. Bhrawy, K. Erfani	A collocation method based on Bernoulli operational matrix for numerical solution of generalized pantograph equation
+Rajae Aboulaich, Amel Ben Abda, Moez Kallel	A control type method for solving the Cauchy–Stokes problem
+Shiow-Yun Chang, Tsung-Yuan Yeh	A two-echelon supply chain of a returnable product with fuzzy demand
+Zahra Naji-Azimi, Majid Salari	A complementary tool to enhance the effectiveness of existing methods for heterogeneous fixed fleet vehicle routing problem
+Soufiane Gasmi	Estimating parameters of a log-linear intensity for a repairable system
+Sapna Devi	Effects of prey refuge on a ratio-dependent predator–prey model with stage-structure of prey population
+Gülnihal Meral	Differential quadrature solution of heat- and mass-transfer equations
+Ryan L. Harne	Modeling and analysis of distributed electromagnetic oscillators for broadband vibration attenuation and concurrent energy harvesting
+Zhan-Ping Ma, Wan-Tong Li	Bifurcation analysis on a diffusive Holling–Tanner predator–prey model
+F. Guerriero, R. Musmanno, O. Pisacane, F. Rende	A mathematical model for the Multi-Levels Product Allocation Problem in a warehouse with compatibility constraints
+Jie Cui, Si-feng Liu, Bo Zeng, Nai-ming Xie	A novel grey forecasting model and its optimization
+Jing Lei, Shi Liu	Inversion algorithm based on the generalized objective functional for compressed sensing
+Prabhata K. Swamee, Ashok K. Sharma	Optimal design of a sewer line using Linear Programming
+Sundaramoorthy Rajasekaran	Free vibration of centrifugally stiffened axially functionally graded tapered Timoshenko beams using differential transformation and quadrature methods
+N. Anbazhagan, Jinting Wang, D. Gomathi	Base stock policy with retrial demands
+Ke Gong, Panpan Wang, Zhi Xiao	Bijective soft set decision system based parameters reduction under fuzzy environments
+Mahdi Shahrokhi, Fatemeh Rostami, Md Azlin Md Said, Syafalni	Numerical modeling of baffle location effects on the flow pattern of primary sedimentation tanks
+Layek L. Abdel-Malek, Mojisola Otegbeye	Separable programming/duality approach to solving the multi-product Newsboy/Gardener Problem with linear constraints
+Peng-Jen Lai, Wen-Chiung Lee	Single-machine scheduling with learning and forgetting effects
+C.S. Huang, C.N. Hu	Three-dimensional analyses of stress singularities at the vertex of a piezoelectric wedge
+C.A. Bustamante, H. Power, Y.H. Sua, W.F. Florez	A global meshless collocation particular solution method (integrated Radial Basis Function) for two-dimensional Stokes flow problems
+Takashi Hasuike, Hideki Katagiri	Interactive decision making for uncertain minimum spanning tree problems with total importance based on a risk-management approach
+Kwang Sung Lee, Daewook Kim	Global dynamics of a pine wilt disease transmission model with nonlinear incidence rates
+Dia I. Abu-Al-Nadi, Othman M.K. Alsmadi, Zaer S. Abo-Hammour, Mohammed F. Hawa, Jamal S. Rahhal	Invasive weed optimization for model order reduction of linear MIMO systems
+Jinglai Wu, Yunqing Zhang, Liping Chen, Zhen Luo	A Chebyshev interval method for nonlinear dynamic systems under uncertainty
+Issue 7
+Application of artificial neural networks for the prediction of roll force and roll torque in hot strip rolling process
+Mahdi Bagheripoor, Hosein Bisadi
+A novel time delayed HIV/AIDS model with vaccination & antiretroviral therapy and its stability analysis
+Defang Liu, Bochu Wang
+Analysis of Mindlin micro plates with a modified couple stress theory and a meshless method
+C.M.C. Roque, A.J.M. Ferreira, J.N. Reddy
+Chebyshev differentiation matrices for efficient computation of the eigenvalues of fourth-order Sturm–Liouville problems
+A.H. Saleh Taher, A. Malek, S.H. Momeni-Masuleh
+Analysis of the GI/Geo/1 queue with N-policy
+Dae-Eun Lim, Doo Ho Lee, Won Seok Yang, Kyung-Chul Chae
+The simplified solution procedure for deteriorating items under stock-dependent demand and two-level trade credit in the supply chain management
+Kun-Jen Chung, Leopoldo Eduardo Cárdenas-Barrón
+Repeated Richardson extrapolation applied to the two-dimensional Laplace equation using triangular and square grids
+C.H. Marchi, L.K. Araki, A.C. Alves, R. Suero, ... M.A.V. Pinto
+Spectral modeling of time series with missing data
+Paulo C. Rodrigues, Miguel de Carvalho
+Reliability analysis for the consecutive-k-out-of-n: F system with repairmen taking multiple vacations
+Li Yuan, Zhen-Dong Cui
+A computational determination of the Cowper–Symonds parameters from a single Taylor test
+C. Hernandez, A. Maranon, I.A. Ashcroft, J.P. Casas-Rodriguez
+A comprehensive extension of an integrated inventory model with ordering cost reduction and permissible delay in payments
+Kuo-Ren Lou, Wan-Chih Wang
+Semi-analytic actuating and sensing in regular and irregular MEMs, single and assembled micro cantilevers
+M.H. Korayem, A. Homayooni, S. Sadeghzadeh
+An integrated model for lot sizing with supplier selection and quantity discounts
+Amy H.I. Lee, He-Yau Kang, Chun-Mei Lai, Wan-Yu Hong
+Flux-splitting dispersion-relation-preserving dual-compact upwind scheme for solving the Maxwell’s equations on non-staggered grids
+Pao-Hsiung Chiu, Reui-Kuo Lin, Sheng-Hsiu Kuo, Yan-Ting Lin
+Fuzzy prioritized operators and their application to multiple attribute group decision making
+Xiaofei Zhao, Rui Lin, Guiwu Wei
+A perishable inventory system with service facility and finite source
+A. Shophia Lawrence, B. Sivakumar, G. Arivarignan
+Vibration analysis of Euler–Bernoulli nanobeams by using finite element method
+M.A. Eltaher, Amal E. Alshorbagy, F.F. Mahmoud
+Two-stage least squares based iterative estimation algorithm for CARARMA system modeling
+Feng Ding
+Existence and numerical modelling of vortex rings with elliptic boundaries
+Yan Zhang, Ionut Danaila
+Predator–Prey model with Holling response function of type II and SIS infectious disease
+Jean Jules Tewa, Valaire Yatat Djeumen, Samuel Bowong
+Modeling, analysis and performance evaluation for fault diagnosis and Fault Tolerant Control in bottle-filling plant modeled using Hybrid Petri nets
+K. Renganathan, Vidhyacharan Bhaskar
+Stability of reaction-fronts in porous media
+Magnus Wangen
+Macromodeling of high-speed interconnects by positive interpolation of vertical segments
+Oliver Salazar Celis, Annie Cuyt, Dirk Deschrijver, Dries Vande Ginste, ... Luc Knockaert
+Reliability of a multi-state system subject to shocks using phase-type distributions
+M.C. Segovia, P.E. Labeau
+Scheduling problems with past-sequence-dependent setup times and general effects of deterioration and learning
+Xiao-Yuan Wang, Jian-Jun Wang
+The multi-fuzzy soft set and its application in decision making
+Yong Yang, Xia Tan, Congcong Meng
+A Branch and Bound Algorithm to Minimize the Total Weighed Number of Tardy Jobs and Delivery Costs
+Morteza Rasti-Barzoki, Seyed Reza Hejazi, Mohammad Mahdavi Mazdeh
+Extension of VIKOR method for decision making problem based on hesitant fuzzy set
+Nian Zhang, Guiwu Wei
+A novel approach to multi attribute group decision making based on trapezoidal interval type-2 fuzzy soft sets
+Zhiming Zhang, Shouhua Zhang
+Analytical analysis of buckling and post-buckling of fluid conveying multi-walled carbon nanotubes
+Arman Ghasemi, Morteza Dardel, Mohammad Hassan Ghasemi, Mohammad Mehdi Barzegari
+Modified function projective lag synchronization of chaotic systems with disturbance estimations
+Yanbo Gao, Binghua Sun, Guoping Lu
+Robust fault detection of Markovian jump systems with different system modes
+Mengzhuo Luo, Guangjun Liu, Shouming Zhong
+A delay decomposition approach to stability analysis of neutral systems with time-varying delay
+Pin-Lin Liu
+Utilizing feed-back neural network approach for solving linear Fredholm integral equations system
+A. Jafarian, S. Measoomy Nia
+Two very accurate and efficient methods for computing eigenvalues of Sturm–Liouville problems
+Mohamed El-gamel, Mahmoud Abd El-hady
+Research on game model and complexity of retailer collecting and selling in closed-loop supply chain
+Yuehong Guo, Junhai Ma
+On novel grey forecasting model based on non-homogeneous index sequence
+Nai-Ming Xie, Si-Feng Liu, Ying-Jie Yang, Chao-Qing Yuan
+Defining order picking policy: A storage assignment model and a simulated annealing solution in AS/RS systems
+Ediz Atmaca, Ayla Ozturk
+Dielectric waveguides of arbitrary cross sectional shape
+Theodoros P. Horikis
+A note on the general multi-moment constrained flux reconstruction formulation for high order schemes
+Feng Xiao, Satoshi Ii, Chungang Chen, Xingliang Li
+Capacitated location allocation problem with stochastic location and fuzzy demand: A hybrid algorithm
+Seyed Mohsen Mousavi, Seyed Taghi Akhavan Niaki
+Group decision making based on intuitionistic multiplicative aggregation operators
+Meimei Xia, Zeshui Xu
+Hybrid simulated annealing and MIP-based heuristics for stochastic lot-sizing and scheduling problem in capacitated multi-stage production system
+Reza Ramezanian, Mohammad Saidi-Mehrabad
+Finding an inner estimation of the solution set of a fuzzy linear system
+R. Nuraei, T. Allahviranloo, M. Ghanbari
+Specification and verification of safety properties along a crossing region in a railway network control
+Farooq Ahmad, Sher Afzal Khan
+Eigenvector method, consistency test and inconsistency repairing for an incomplete fuzzy preference relation
+Yejun Xu, Huimin Wang
+ADI method based on C^2 -continuous two-node integrated-RBF elements for viscous flows
+D.-A. An-Vo, N. Mai-Duy, C.-D. Tran, T. Tran-Cong
+On the strategy of supply chain collaboration based on dynamic inventory target level management: A theory of constraint perspective
+Integration of barotropic vorticity equation over spherical geodesic grid using multilevel adaptive wavelet collocation method
+Ratikanta Behera, Mani Mehra
+Parallel-machine scheduling with non-simultaneous machine available time
+Lixin Shen, Dan Wang, Xiao-Yuan Wang
+Numerical solutions to initial and boundary value problems for linear fractional partial differential equations
+Mujeeb ur Rehman, Rahmat Ali Khan
+A level-set method for convective–diffusive particle deposition
+Y.F. Yap, F.M. Vargas, J.C. Chai
+Neural network prediction of load from the morphology of trabecular bone
+Amir Abbas Zadpoor, Gianni Campoli, Harrie Weinans
+Uncertain linguistic Bonferroni mean operators and their application to multiple attribute decision making
+Guiwu Wei, Xiaofei Zhao, Rui Lin, Hongjun Wang
+Improving cyclone performance by proper selection of the exit pipe
+Hesham M. El-Batsh
+Gas-dynamic equations for spatially inhomogeneous gas mixtures with internal degrees of freedom. II. General representation for one-temperature reaction rates
+Evgeniy G. Kolesnichenko, Yuriy E. Gorbachev
+Path planning, modeling and simulation of an autonomous articulated heavy construction machine performing a loading cycle
+B.J. Alshaer, T.T. Darabseh, M.A. Alhanouti
+Square-root dynamics of a giving up smoking model
+Anwar Zeb, Gul Zaman, Shaher Momani
+A new method for similarity measures for pattern recognition
+Peter C.P. Yen, KuoChin Fan, Henry C.J. Chao
+Analytical expressions for the concentrations of substrate, oxygen and mediator in an amperometric enzyme electrode
+K. Indira, L. Rajendran
+Response of multiwall carbon nanotubes to impact loading
+S.T. Talebian, M. Tahani, M.H. Abolbashari, S.M. Hosseini
+Single machine scheduling with resource allocation and learning effect considering the rate-modifying activity
+Zhanguo Zhu, Feng Chu, Linyan Sun, Ming Liu
+Significance of plaque morphology in modifying flow characteristics in a diseased coronary artery: Numerical simulation using plaque measurements from intravascular ultrasound imaging
+Kiran Bhaganagar, Chetan Veeramachaneni, Carlos Moreno
+Boundedness for network of stochastic coupled van der Pol oscillators with time-varying delayed coupling
+Chunmei Zhang, Wenxue Li, Ke Wang
+An agent-based model of supply chains with dynamic structures
+Jing Li, Felix T.S. Chan
+Stability of the virus dynamics model with Beddington–DeAngelis functional response and delays
+Hong Xiang, Li-Xiang Feng, Hai-Feng Huo
+Solving a multi-objective multi-skilled manpower scheduling model by a fuzzy goal programming approach
+Parisa Shahnazari-Shahrezaei, Reza Tavakkoli-Moghaddam, Hamed Kazemipoor
+Single machine past-sequence-dependent delivery times scheduling with general position-dependent and time-dependent learning effects
+Lixin Shen, Yu-Bin Wu
+Modeling host-parasitoid interactions with correlated events
+A. Gómez-Corral, M. López García
+A reduced-order finite difference extrapolation algorithm based on POD technique for the non-stationary Navier–Stokes equations
+Zhendong Luo, Hong Li, Ping Sun, Junqiang Gao
+Concerning exact analytical STFT solutions to some families of inverse problems in engineering material theory
+S.M. Perovich, M. Orlandic, M. Calasan
+Fractional-order Legendre functions for solving fractional-order differential equations
+S. Kazem, S. Abbasbandy, Sunil Kumar
+Coordination between long-term decision process and day-ahead unit commitment in deregulated markets: A fuzzy hierarchical bi-level modeling approach
+M.M. Lotfi, S.F. Ghaderi
+Issue 8
+The positive periodic solution for Nicholson-type delay system with linear harvesting terms
+Qiyuan Zhou
+A fully Eulerian approach to particle inertial deposition in a physiologically realistic bifurcation
+M. Pilou, V. Antonopoulos, E. Makris, P. Neofytou, ... C. Housiadas
+Direct particle motion and interaction modeling method applied to simulate propellant burn
+L.A. Florio
+Prediction of the bed-load transport by gas–liquid stratified flows in horizontal ducts
+Erick de Moraes Franklin
+Reducing negative effects of quadratic norm regularization on image reconstruction in electrical impedance tomography
+Ashkan Javaherian, Amir Movafeghi, Reza Faghihi
+Disease control in a food chain model supplying alternative food
+Banshidhar Sahoo, Swarup Poria
+A mathematical modeling for incorporating energy price hikes into total natural gas consumption forecasting
+V. Majazi Dalfard, M. Nazari Asli, S.M. Asadzadeh, S.M. Sajjadi, A. Nazari-Shirkouhi
+CFD modeling and multi-objective optimization of cyclone geometry using desirability function, artificial neural networks and genetic algorithms
+Khairy Elsayed, Chris Lacor
+Modeling the relationship between hydrogen content and mechanical property of Ti600 alloy by using ANFIS
+Yuanfei Han, Weidong Zeng, Xuemin Zhang, Yongqing Zhao, ... Xiong Ma
+Optimized Dropping and Rolling (ODR) method for packing of poly-disperse spheres
+K. Hitti, M. Bernacki
+Operational scheduling of refined product pipeline with dual purpose depots
+S.A. MirHassani, M. Abbasi, S. Moradi
+A finite difference method for singularly perturbed differential-difference equations with layer and oscillatory behavior
+R. Nageshwar Rao, P. Pramod Chakravarthy
+Statistical analysis of the stochastic solution processes of 1-D stochastic Navier–Stokes equation using WHEP technique
+Magdy A. El-Tawil, AbdelHafeez A. El-Shekhipy
+The effect of modeling of velocity fluctuations on prediction of collection efficiency of cyclone separators
+Sujeet Kumar Shukla, Prashant Shukla, Pradyumna Ghosh
+Modeling a stochastic multi-objective supplier quota allocation problem with price-dependent ordering
+Nima Esfandiari, Mehdi Seifbarghy
+Block preconditioning strategies for nonlinear viscous wave equations
+Qifeng Zhang, Chengjian Zhang
+The effect of osmotic pressure on the flow of solutions through semi-permeable hollow fibers
+I. Borsi, A. Farina, A. Fasano
+A heuristic approach for deriving the priority vector in AHP
+Changsheng Lin, Gang Kou, Daji Ergu
+Generalized hesitant fuzzy synergetic weighted distance measures and their application to multiple criteria decision-making
+Ding-Hong Peng, Chang-Yuan Gao, Zhi-Fang Gao
+Evolutionary computation for optimal knots allocation in smoothing splines
+Olga Valenzuela, Blanca Delgado-Marquez, Miguel Pasadas
+A QFD-based fuzzy MCDM approach for supplier selection
+Mehtap Dursun, E. Ertugrul Karsak
+Wavelet analysis method for solving linear and nonlinear singular boundary value problems
+A. Kazemi Nasab, A. Kılıçman, E. Babolian, Z. Pashazadeh Atabakan
+Optimal replenishment policies for deteriorating items with stock sensitive demand under two-level trade credit and limited capacity
+Hardik N. Soni
+Mathematical modeling of stability in rough elliptic bore misaligned journal bearing considering thermal and non-Newtonian effects
+Prakash Chandra Mishra
+Application of inverse finite element method in tube hydroforming modeling
+Mona Einolghozati, Mehdi Bostan Shirin, Ahmad Assempour
+Numerical approach for solving fractional relaxation–oscillation equation
+Mustafa Gülsu, Yalçın Öztürk, Ayşe Anapalı
+Non-Gaussian non-stationary models for natural hazard modeling
+Fabrice Poirion, Irmela Zentner
+Fuzzy logic control of electrodynamic levitation devices coupled to dynamic finite volume method analysis
+Abd Elhamid Mabrouk, Ahmed Cheriet, Mouloud Feliachi
+Lytic cycle: A defining process in oncolytic virotherapy
+Yujie Wang, Jianjun Paul Tian, Junjie Wei
+An analytical approximation for coupled viscous Burgers’ equation
+Hossein Aminikhah
+Stability and Hopf bifurcation for a three-component reaction–diffusion population model with delay effect
+Zhan-Ping Ma
+Improving the differential transform method: A novel technique to obtain the differential transforms of nonlinearities by the Adomian polynomials
+Hooman Fatoorehchi, Hossein Abolghasemi
+Construction of solutions for mixed hyperbolic elliptic Riemann initial value system of conservation laws
+Emad A. Az-Zo’bi
+Numerical solution of the fractional-order Vallis systems using multi-step differential transformation method
+Mehmet Merdan
+Numerical prediction of buoyancy driven micropolar fluid flow within uniformly heated eccentric annulus
+F.M. Mahfouz
+Fractional order iterative functional differential equations with parameter
+JinRong Wang, Michal Fec˘kan, Yong Zhou
+A study of the effect of the loss function on Bayes Estimate, posterior risk and hazard function for Lindley distribution
+Sajid Ali, Muhammad Aslam, Syed Mohsin Ali Kazmi
+An efficient statistically equivalent reduced method on stochastic model updating
+Q. Rui, H. Ouyang, H.Y. Wang
+Moving least squares based sensitivity analysis for models with dependent variables
+Longfei Tian, Zhenzhou Lu, Wenrui Hao
+Nonconforming finite element method for stochastic Stokes equations
+Xiaoyuan Yang, Ruisheng Qi
+Issue 9
+A new design concept for milling tools of spherical surfaces obtained by kinematic generation
+C. Neagu, M. Lupeanu, A. Rennie
+Dealing with missing data based on data envelopment analysis and halo effect
+Yong Zha, Ali Song, Chuanyong Xu, Honglin Yang
+Multi-choice mixed integer goal programming optimization for real problems in a sugar and ethanol milling company
+Aneirson Francisco da Silva, Fernando Augusto Silva Marins, José Arnaldo Barra Montevechi
+Coupling of a one-dimensional river routing model and a three-dimensional ocean model to predict overbank flows in a complex river–ocean system
+Wei-Bo Chen, Wen-Cheng Liu, Chung-Yi Wu
+Modeling and analysis of vaporizing during vacuum electron beam welding on magnesium alloy
+Yi Luo
+Variational iteration method for the Burgers’ flow with fractional derivatives—New Lagrange multipliers
+Guo-Cheng Wu, Dumitru Baleanu
+Advective–diffusive mass transfer in binary regular structures in the steady-state regime
+Yevhen Chaplya, Olha Chernukha, Veronika Dmytruk
+A single-server discrete-time queue with correlated positive and negative customer arrivals
+Jinting Wang, Yunbo Huang, Tien Van Do
+Wave propagation analysis in buried pipe conveying fluid
+Deng Qing-tian, Yang Zhi-chun
+Generalized GM (1, 1) model and its application in forecasting of fuel production
+Wei Zhou, Jian-Min He
+Battery state-of-charge estimator using the SVM technique
+J.C. Álvarez Antón, P.J. García Nieto, F.J. de Cos Juez, F. Sánchez Lasheras, ... M.N. Roqueñí Gutiérrez
+Investigation on the effect of trailing edge ejection on a turbine cascade
+Yangang Wang, Longbo Zhao
+The uncertain probabilistic OWA distance operator and its application in group decision making
+Shouzhen Zeng, José M. Merigó, Weihua Su
+Numeric simulation of non-steady flow of liquid in dry pipe fire protection systems of tree type topology
+Valery M. Popov, Valery A. Babenko, Andrey I. Bril, Vitaly P. Kabashnikov, ... Leonid Nikolaychik
+Mathematical modelling of single and multi-strand tundish for inclusion analysis
+K. Raghavendra, Sandip Sarkar, S.K. Ajmani, M.B. Denys, M.K. Singh
+Performance ranking of units considering ideal and anti-ideal DMU with common weights
+Jiasen Sun, Jie Wu, Dong Guo
+Vibrational resonance in neuron populations with hybrid synapses
+Jianbing Sun, Bin Deng, Chen Liu, Haitao Yu, ... Jia Zhao
+Induced aggregation operators in the VIKOR method and its application in material selection
+Hu-Chen Liu, Ling-Xiang Mao, Zhi-Ying Zhang, Ping Li
+Numerical solution of 2D elastostatic problems formulated by potential functions
+J.L. Morales, J.A. Moreno, F. Alhama
+Fitting the three-parameter Weibull distribution with Cross Entropy
+Asghar Moeini, Kouroush Jenab, Mohsen Mohammadi, Mehdi Foumani
+Evaluation of fully fuzzy matrix equations by fuzzy neural network
+Maryam Mosleh
+Derivation of intuitionistic fuzzy weights based on intuitionistic fuzzy preference relations
+Zhou-Jing Wang
+Modeling of aerosol spray characteristics for synthesis of sensor thin film from solution
+S.M. Navid Khatami, O.J. Ilegbusi, L. Trakhtenberg
+A combined facility location and network design problem with multi-type of capacitated links
+Ragheb Rahmaniani, Abdolsalam Ghaderi
+Designing approximation minimal parametric surfaces with geodesics
+Cai-Yun Li, Ren-Hong Wang, Chun-Gang Zhu
+Group decision making methods based on intuitionistic fuzzy soft matrices
+Junjun Mao, Dengbao Yao, Cuicui Wang
+A new model for automatic normalization of multitemporal satellite images using Artificial Neural Network and mathematical methods
+Vahid Sadeghi, Hamid Ebadi, Farshid Farnood Ahmadi
+A fast non-iterative numerical algorithm to predict unsteady partial cavitation on hydrofoils
+Morteza Behbahani-Nejad, Maziar Changizian
+Uncertain programming model for uncertain optimal assignment problem
+Bo Zhang, Jin Peng
+Numerical simulation of cavitation around a two-dimensional hydrofoil using VOF method and LES turbulence model
+Ehsan Roohi, Amir Pouyan Zahiri, Mahmood Passandideh-Fard
+Performance analysis of a discrete-time Geo/G/1 queue with randomized vacations and at most J vacations
+Chuanyi Luo, Yinghui Tang, Baoshan Chao, Kaili Xiang
+Effective integrators for nonlinear second-order oscillatory systems with a time-dependent frequency matrix
+Xinyuan Wu, Bin Wang, Wei Shi
+Stability and bifurcation analysis of a prey–predator model with age based predation
+O.P. Misra, Poonam Sinha, Chhatrapal Singh
+Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations
+Ricardo H.T. Chamié Filho, Lorena F.P. Carvalho, Péricles L. Machado, Rodrigo M.S. de Oliveira
+An application of the Kriging method in global sensitivity analysis with parameter uncertainty
+Pan Wang, Zhenzhou Lu, Zhangchun Tang
+3-D thermo-elastic solution for continuously graded isotropic and fiber-reinforced cylindrical shells resting on two-parameter elastic foundations
+B. Sobhani Aragh, Aida Zeighami, Mohammad Rafiee, M.H. Yas, Magd Abdel wahab
+Issues 10-11
+Joint effect of stock threshold level and production policy on an unreliable production environment
+Tulika Chakraborty, Satyaveer S. Chauhan, Bibhas C. Giri
+Operational matrix approach for solution of integro-differential equations arising in theory of anomalous relaxation processes in vicinity of singular point
+Vineet Kumar Singh, Eugene B. Postnikov
+An interior layer in the thermal power-law blown film model
+J.C. Bennett, J.J. Shepherd
+Pfaffian solutions and extended Pfaffian solutions to (3 + 1)-dimensional Jimbo–Miwa equation
+Yaning Tang
+Stability and local bifurcation analysis of functionally graded material plate under transversal and in-plane excitations
+Xiaohua Zhang, Fangqi Chen, Hongli Zhang
+Possibility of Love wave propagation in a porous layer under the effect of linearly varying directional rigidities
+Shishir Gupta, Sumit Kumar Vishwakarma, Dinesh Kumar Majhi, Santimoy Kundu
+2D numerical simulation of submerged hydraulic jumps
+M. Javan, A. Eghbalzadeh
+A two-phase algorithm for consensus building in AHP-group decision making
+Bojan Srdjevic, Zorica Srdjevic, Bosko Blagojevic, Kosana Suvocarev
+Fuzzy pricing, marketing and service planning in a fuzzy inventory model: A geometric programming approach
+Farshid Samadi, Abolfazl Mirzazadeh, Mir Mohsen Pedram
+Some single-machine scheduling with sum-of-processing-time-based and job-position-based processing times
+Yuan-Yuan Lu, Ji-Bo Wang
+Elastic buckling and vibration analyses of orthotropic nanoplates using nonlocal continuum mechanics and spline finite strip method
+H.R. Analooei, M. Azhari, A. Heidarpour
+Solving multi-objective parallel machine scheduling problem by a modified NSGA-II
+Susmita Bandyopadhyay, Ranjan Bhattacharya
+Modeling of nonlinear viscoelastic contact problems with large deformations
+F.F. Mahmoud, A.G. El-Shafei, A.A. Abdelrahman, M.A. Attia
+Revised DEMATEL: Resolving the Infeasibility of DEMATEL
+Hsuan-Shih Lee, Gwo-Hshiung Tzeng, Weichung Yeih, Yu-Jie Wang, Shing-Chih Yang
+A discrete artificial bee colony algorithm for the no-idle permutation flowshop scheduling problem with the total tardiness criterion
+M. Fatih Tasgetiren, Quan-Ke Pan, P.N. Suganthan, Adalet Oner
+A Lagrangean-based heuristics for the target covering problem in wireless sensor network
+Fethi Jarray
+A mathematical model of tuberculosis transmission with heterogeneity in disease susceptibility and progression under a treatment regime for infectious cases
+D. Okuonghae
+A tandem queue with blocking
+Valentina Klimenok, Chesoong Kim, Olga Dudina, Alexander Dudin
+Stability analysis of a single-walled carbon nanotube conveying pulsating and viscous fluid with nonlocal effect
+Feng Liang, Yong Su
+Synchronization and anti-synchronization of chaotic oscillators under input saturation
+Muhammad Rehan
+Inelastic buckling of skew and rhombic thin thickness-tapered plates with and without intermediate supports using the element-free Galerkin method
+E. Jaberzadeh, M. Azhari, B. Boroomand
+Solving fuzzy multi-objective linear programming problems using deviation degree measures and weighted max–min method
+Haifang Cheng, Weilai Huang, Quan Zhou, Jianhu Cai
+A new high order compact off-step discretization for the system of 3D quasi-linear elliptic partial differential equations
+R.K. Mohanty, Nikita Setia
+Considering decision decentralizations to solve bi-level multi-objective decision-making problems: A fuzzy approach
+Liang-Hsuan Chen, Hsin-Hung Chen
+Modelling and parameter identification for a nonlinear time-delay system in microbial batch fermentation
+Chongyang Liu
+A method based on similarity measures for interactive group decision-making with intuitionistic fuzzy preference relations
+Shouzhen Zeng, Weihua Su, Lirong Sun
+Numerical and analytical studies of a nonlinear parabolic equation with boundary conditions of a special form
+A.L. Kazakov, L.F. Spevak
+A general nonlocal nonlinear model for buckling of nanobeams
+Samir A. Emam
+Vibration of a single-walled carbon nanotube embedded in an elastic medium under a moving internal nanoparticle
+Zhang Hong, Deng Qing-tian, Li Shao-hua
+Effect of pressure-dependent viscosity on the exiting sheet thickness in the calendering of Newtonian fluids
+A. Hernández, J. Arcos, F. Méndez, O. Bautista
+Static and dynamic stability modeling of a capacitive FGM micro-beam in presence of temperature changes
+Mohammadreza Zamanzadeh, Ghader Rezazadeh, Ilgar Jafarsadeghi-poornaki, Rasool Shabani
+Magnetoelectroelastodynamic interaction of multiple arbitrarily oriented planar cracks
+L. Athanasius, W.T. Ang
+Inverse analysis of an internal reforming solid oxide fuel cell system using simplex search method
+T.K. Gogoi, Ranjan Das
+Static analysis of rectangular nano-plate using three-dimensional theory of elasticity
+A. Alibeigloo, A.A. Pasha Zanoosi
+Age replacement policy for a two-unit system subject to non-homogeneous pure birth shocks
+Shey-Huei Sheu, Chien-Kuo Sung, Tsung-Shin Hsu, Yan-Chun Chen
+A two-grid stabilized mixed finite element method for semilinear elliptic equations
+Zhifeng Weng, Xinlong Feng, Demin Liu
+Fundamental size dependent natural frequencies of non-uniform orthotropic nano scaled plates using nonlocal variational principle and finite element method
+Ali Reza Shahidi, Amin Anjomshoa, Sayyed Hossein Shahidi, Mehdi Kamrani
+A fuzzy rough set approach to emergency material demand prediction over two universes
+Bingzhen Sun, Weimin Ma, Haiyan Zhao
+A note on two-agent scheduling on an unbounded parallel-batching machine with makespan and maximum lateness objectives
+Qi Feng, Jinjiang Yuan, Hailing Liu, Cheng He
+Bending solutions of FGM Timoshenko beams from those of the homogenous Euler–Bernoulli beams
+Shi-Rong Li, Da-Fu Cao, Ze-Qing Wan
+Issues 10-11
+Joint effect of stock threshold level and production policy on an unreliable production environment
+Tulika Chakraborty, Satyaveer S. Chauhan, Bibhas C. Giri
+Operational matrix approach for solution of integro-differential equations arising in theory of anomalous relaxation processes in vicinity of singular point
+Vineet Kumar Singh, Eugene B. Postnikov
+An interior layer in the thermal power-law blown film model
+J.C. Bennett, J.J. Shepherd
+Pfaffian solutions and extended Pfaffian solutions to (3 + 1)-dimensional Jimbo–Miwa equation
+Yaning Tang
+Stability and local bifurcation analysis of functionally graded material plate under transversal and in-plane excitations
+Xiaohua Zhang, Fangqi Chen, Hongli Zhang
+Possibility of Love wave propagation in a porous layer under the effect of linearly varying directional rigidities
+Shishir Gupta, Sumit Kumar Vishwakarma, Dinesh Kumar Majhi, Santimoy Kundu
+2D numerical simulation of submerged hydraulic jumps
+M. Javan, A. Eghbalzadeh
+A two-phase algorithm for consensus building in AHP-group decision making
+Bojan Srdjevic, Zorica Srdjevic, Bosko Blagojevic, Kosana Suvocarev
+Fuzzy pricing, marketing and service planning in a fuzzy inventory model: A geometric programming approach
+Farshid Samadi, Abolfazl Mirzazadeh, Mir Mohsen Pedram
+Some single-machine scheduling with sum-of-processing-time-based and job-position-based processing times
+Yuan-Yuan Lu, Ji-Bo Wang
+Elastic buckling and vibration analyses of orthotropic nanoplates using nonlocal continuum mechanics and spline finite strip method
+H.R. Analooei, M. Azhari, A. Heidarpour
+Solving multi-objective parallel machine scheduling problem by a modified NSGA-II
+Susmita Bandyopadhyay, Ranjan Bhattacharya
+Modeling of nonlinear viscoelastic contact problems with large deformations
+F.F. Mahmoud, A.G. El-Shafei, A.A. Abdelrahman, M.A. Attia
+Revised DEMATEL: Resolving the Infeasibility of DEMATEL
+Hsuan-Shih Lee, Gwo-Hshiung Tzeng, Weichung Yeih, Yu-Jie Wang, Shing-Chih Yang
+A discrete artificial bee colony algorithm for the no-idle permutation flowshop scheduling problem with the total tardiness criterion
+M. Fatih Tasgetiren, Quan-Ke Pan, P.N. Suganthan, Adalet Oner
+A Lagrangean-based heuristics for the target covering problem in wireless sensor network
+Fethi Jarray
+A mathematical model of tuberculosis transmission with heterogeneity in disease susceptibility and progression under a treatment regime for infectious cases
+D. Okuonghae
+A tandem GI/PH/1->./PH/1/0 queue with blocking
+Valentina Klimenok, Chesoong Kim, Olga Dudina, Alexander Dudin
+Stability analysis of a single-walled carbon nanotube conveying pulsating and viscous fluid with nonlocal effect
+Feng Liang, Yong Su
+Synchronization and anti-synchronization of chaotic oscillators under input saturation
+Muhammad Rehan
+Inelastic buckling of skew and rhombic thin thickness-tapered plates with and without intermediate supports using the element-free Galerkin method
+E. Jaberzadeh, M. Azhari, B. Boroomand
+Solving fuzzy multi-objective linear programming problems using deviation degree measures and weighted max–min method
+Haifang Cheng, Weilai Huang, Quan Zhou, Jianhu Cai
+A new high order compact off-step discretization for the system of 3D quasi-linear elliptic partial differential equations
+R.K. Mohanty, Nikita Setia
+Considering decision decentralizations to solve bi-level multi-objective decision-making problems: A fuzzy approach
+Liang-Hsuan Chen, Hsin-Hung Chen
+Modelling and parameter identification for a nonlinear time-delay system in microbial batch fermentation
+Chongyang Liu
+A method based on similarity measures for interactive group decision-making with intuitionistic fuzzy preference relations
+Shouzhen Zeng, Weihua Su, Lirong Sun
+Numerical and analytical studies of a nonlinear parabolic equation with boundary conditions of a special form
+A.L. Kazakov, L.F. Spevak
+A general nonlocal nonlinear model for buckling of nanobeams
+Samir A. Emam
+Vibration of a single-walled carbon nanotube embedded in an elastic medium under a moving internal nanoparticle
+Zhang Hong, Deng Qing-tian, Li Shao-hua
+Effect of pressure-dependent viscosity on the exiting sheet thickness in the calendering of Newtonian fluids
+A. Hernández, J. Arcos, F. Méndez, O. Bautista
+Static and dynamic stability modeling of a capacitive FGM micro-beam in presence of temperature changes
+Mohammadreza Zamanzadeh, Ghader Rezazadeh, Ilgar Jafarsadeghi-poornaki, Rasool Shabani
+Magnetoelectroelastodynamic interaction of multiple arbitrarily oriented planar cracks
+L. Athanasius, W.T. Ang
+Inverse analysis of an internal reforming solid oxide fuel cell system using simplex search method
+T.K. Gogoi, Ranjan Das
+Static analysis of rectangular nano-plate using three-dimensional theory of elasticity
+A. Alibeigloo, A.A. Pasha Zanoosi
+Age replacement policy for a two-unit system subject to non-homogeneous pure birth shocks
+Shey-Huei Sheu, Chien-Kuo Sung, Tsung-Shin Hsu, Yan-Chun Chen
+A two-grid stabilized mixed finite element method for semilinear elliptic equations
+Zhifeng Weng, Xinlong Feng, Demin Liu
+Fundamental size dependent natural frequencies of non-uniform orthotropic nano scaled plates using nonlocal variational principle and finite element method
+Ali Reza Shahidi, Amin Anjomshoa, Sayyed Hossein Shahidi, Mehdi Kamrani
+A fuzzy rough set approach to emergency material demand prediction over two universes
+Bingzhen Sun, Weimin Ma, Haiyan Zhao
+Bending solutions of FGM Timoshenko beams from those of the homogenous Euler–Bernoulli beams
+Shi-Rong Li, Da-Fu Cao, Ze-Qing Wan
+On the efficiency test in multi-objective linear fractional programming problems by Lotfi et al. 2010
+Bogdana Stanojević, Milan Stanojević
+Issues 12-13
+Multiresolution based adaptive schemes for second order hyperbolic PDEs in elastodynamic problems
+Hassan Yousefi, Asadollah Noorzad, Jamshid Farjoodi
+A dominance intuitionistic fuzzy-rough set approach and its applications
+Bing Huang, Yu-liang Zhuang, Hua-xiong Li, Da-kuan Wei
+Mehar’s method for solving fully fuzzy linear programming problems with L-R fuzzy parameters
+Jagdeep Kaur, Amit Kumar
+Exact solution for Transient bending of a circular plate integrated with piezoelectric layers
+A.A. Jandaghian, A.A. Jafari, O. Rahmani
+A polynomial time heuristic for the two-machine flowshop scheduling problem with setup times and random processing times
+Harun Aydilek, Ali Allahverdi
+Toward a solution of a class of non-linear stochastic perturbed PDEs using automated WHEP algorithm
+Mohamed A. El-Beltagy, Magdy A. El-Tawil
+Frequency-dependent vibration analysis of symmetric cross-ply laminated plate of Levy-type by spectral element and finite strip procedures
+Hesam Hajheidari, Hamid Reza Mirdamadi
+Analytical study of the water surface fluctuations induced by grid-stirred turbulence
+S. Longo, L. Chiapponi, D. Liang
+ cluster synchronization and state estimation for complex dynamical networks with mixed time delays
+Hongjie Li
+On optimization of the RBF shape parameter in a grid-free local scheme for convection dominated problems over non-uniform centers
+Y.V.S.S. Sanyasiraju, Chirala Satyanarayana
+Coupled heat and moisture transport in paper with application to a warm print surface
+Paula Andrea Marin Zapata, Maurice Fransen, Jan ten Thije Boonkkamp, Louis Saes
+Incorporating human fatigue and recovery into the learning–forgetting process
+M.Y. Jaber, Z.S. Givi, W.P. Neumann
+DEA environmental assessment: Measurement of damages to scale with unified efficiency under managerial disposability or environmental efficiency
+Toshiyuki Sueyoshi, Mika Goto, Margaret A. Snell
+The Weiss constant and its analytical solution for the effect of internal demagnetization
+J. Takács
+Mathematical modeling and comparison of air standard Dual and Dual-Atkinson cycles with friction, heat transfer and variable specific-heats of the working fluid
+Mohamad Hashemi Gahruei, Hamed Shahmirzae Jeshvaghani, Said Vahidi, Lingen Chen
+Rough sets for pattern classification using pairwise-comparison-based tables
+Yi-Chung Hu
+Prediction of biaxial buckling behavior of single-layered graphene sheets based on nonlocal plate models and molecular dynamics simulations
+R. Ansari, S. Sahmani
+Modelling the effect of ‘heel to toe’ roll-over contact on the walking dynamics of passive biped robots
+P. Mahmoodi, R.S. Ransing, M.I. Friswell
+Parameter estimation by Hellinger type distance for multivariate distributions based upon probability generating functions
+Choung Min Ng, Seng-Huat Ong, H.M. Srivastava
+Highly accurate numerical solutions with repeated Richardson extrapolation for 2D laplace equation
+Carlos Henrique Marchi, Leandro Alberto Novak, Cosmo Damião Santiago, Ana Paula da Silveira Vargas
+Modified mixed Ritz-DQ formulation for free vibration of thick rectangular and skew plates with general boundary conditions
+S.A. Eftekhari, A.A. Jafari
+Application of a non-asymptotic approach to prediction of the propagation of a flame through a fuel and/or oxidant droplet cloud
+G. Kats, J.B. Greenberg
+Structure control classification and optimization model of hollow carbon nanosphere core polymer particle based on improved differential evolution support vector machine
+Zhen Yang, Qingni Yu, Wenping Dong, Xingsheng Gu, ... Xiaoyi Liang
+A new formulation of regularized meshless method applied to interior and exterior anisotropic potential problems
+Linlin Sun, Wen Chen, Chuanzeng Zhang
+A new formulation and an exact approach for the many-to-many hub location-routing problem
+Ricardo Saraiva de Camargo, Gilberto de Miranda, Arne Løkketangen
+Issues 14-15
+A note on the distributional Little’s law for discrete-time queues with D-MAP arrivals and its application
+Nam K. Kim, Mohan L. Chaudhry, Kilhwan Kim, Won Seok Yang
+Computational modelling of fluid structure interaction at nano-scale boundaries with modified Maxwellian velocity distribution
+F. Hafezi, R.S. Ransing
+Two-dimensional numerical simulation of a wave with a current past a circular cylinder. Part 1: Inline flow
+H. Al-Jamal, C. Dalton
+Effective computation of exact and analytic approximate solutions to singular nonlinear equations of Lane–Emden–Fowler type
+M. Turkyilmazoglu
+Multiphase flow modeling and optimization for online wash systems of gas turbines
+E.M. Wahba, H. Nawar
+Makespan minimization for two parallel machines scheduling with a periodic availability constraint: Mathematical programming model, average-case analysis, and anomalies
+Dehua Xu, Dar-Li Yang
+On-line optimization design of sliding mode guidance law with multiple constraints
+Q.Z. Zhang, Z.B. Wang, F. Tao, Bhaba R. Sarker
+Free in-plane vibration analysis of a curved beam (arch) with arbitrary various concentrated elements
+J.S. Wu, F.T. Lin, H.J. Shaw
+Nonlinear dynamical analysis of hydro-turbine governing system with a surge tank
+Diyi Chen, Cong Ding, Xiaoyi Ma, Pu Yuan, Duoduo Ba
+An inventory model for increasing demand under two levels of trade credit linked to order quantity
+Jinn-Tsair Teng, Hui-Ling Yang, Maw-Sheng Chern
+Modelling and validation: Casting of Al and TiAl alloys in gravity and centrifugal casting processes
+N.J. Humphreys, D. McBride, D.M. Shevchenko, T.N. Croft, ... M. Cross
+Exact traveling wave solutions for the Benjamin–Bona–Mahony equation by improved Fan sub-equation method
+Hong Li, Kanmin Wang, Jibin Li
+Numerical behavior of a fractional fifth order dissipative system of magnetoconvection
+Mohammad Javidi, Nemat Nyamorady
+An explicit exact analytical approach for free vibration of circular/annular functionally graded plates bonded to piezoelectric actuator/sensor layers based on Reddy’s plate theory
+M. Rahmat Talabi, A.R. Saidi
+Nonlinear vibration and instability of embedded double-walled boron nitride nanotubes based on nonlocal cylindrical shell theory
+A. Ghorbanpour Arani, R. Kolahchi, Z. Khoddami Maraghi
+Simulation and optimization for crop water allocation based on crop water production functions and climate factor under uncertainty
+Fangfang Tong, Ping Guo
+Age replacement policy with lead-time for a system subject to non-homogeneous pure birth shocks
+Shey-Huei Sheu, Zhe George Zhang, Yu-Hung Chien, Tsun-Hung Huang
+On the constitutive relations for isotropic and transversely isotropic materials
+N.M.A. Nik Long, A.A. Khaldjigitov, U. Adambaev
+The effect of actuator parameters on the critical flow velocity of a fluidic amplifier
+Jian-Ming Peng, Qi-Lei Yin, Guo-lin Li, He Liu, Wei Wang
+An integrated approach for supplier selection in multi-item/multi-supplier environment
+Huseyin Selcuk Kilic
+The a posteriori Fourier method for solving the Cauchy problem for the Laplace equation with nonhomogeneous Neumann data
+Chu-Li Fu, Yun-Jie Ma, Hao Cheng, Yuan-Xiang Zhang
+Numerical study on the effect of the injection pressure on spray penetration length
+Mohammad Taghi Shervani-Tabar, Meysam Sheykhvazayefi, Morteza Ghorbani
+Operational matrices of Chebyshev cardinal functions and their application for solving delay differential equations arising in electrodynamics with error estimation
+M. Heydari, G.B. Loghmani, S.M. Hosseini
+A hyperbolic model for the laser cutting process
+R.M. Colombo, G. Guerra, M. Herty, F. Marcellini
+Evaluation of the multiobjective ant colony algorithm performances on biobjective quadratic assignment problems
+Celal Özkale, Alpaslan Fığlalı
+The application of a mathematical model of sustainability to the results of a semi-quantitative Environmental Impact Assessment of two iron ore opencast mines in Iran
+Jason Phillips
+A modified multi-criterion optimization genetic algorithm for order distribution in collaborative supply chain
+Haixin Zhang, Yong Deng, Felix T.S. Chan, Xiaoge Zhang
+Issues 16-17
+Incorporating dust lift-off into a CFD model of a blast furnace gravity dust-catcher
+David Winfield, Nick Croft, Mark Cross, David Paddison
+The influence of flow acceleration on tidal stream turbine wake dynamics: A numerical study using a coupled BEM–CFD model
+Ian Masters, Rami Malki, Alison J. Williams, T. Nicholas Croft
+The double-mass model of drop deformation and secondary breakup
+M. Marek
+New higher-order compact finite difference schemes for 1D heat conduction equations
+Fei Han, Weizhong Dai
+Snap-through buckling of a shallow arch resting on a two-parameter elastic foundation
+Adel Abdelgawad, Ahmed Anwar, Mohamed Nassar
+Asymptotic expansions of stress tensor for linearly elastic shell
+Shen Xiaoqin, Li Kaitai, Ming Yang
+Using a new VSI EWMA average loss control chart to monitor changes in the difference between the process mean and target and/or the process variability
+Su-Fen Yang
+Stress and strain-inertia gradient elasticity in free vibration analysis of single walled carbon nanotubes with first order shear deformation shell theory
+F. Daneshmand, M. Rafiei, S.R. Mohebpour, M. Heshmati
+Zonal modeling of radiative heat transfer in industrial furnaces using simplified model for exchange area calculation
+Hadi Ebrahimi, Akbar Zamaniyan, Jafar S. Soltan Mohammadzadeh, Ali Asghar Khalili
+A novel order diminution of LTI systems using Big Bang Big Crunch optimization and Routh Approximation
+S.R. Desai, Rajendra Prasad
+Buckling delamination of a sandwich plate-strip with piezoelectric face and elastic core layers
+Surkay D. Akbarov, Nazmiye Yahnioglu
+Modeling aspects of flow and solute transport simulations in water disinfection tanks
+Dongjin Kim, Thorsten Stoesser, Jae-Hong Kim
+Mathematical modelling of timber-framed walls using fictive diagonal elements
+Katja Pintarič, Miroslav Premrov
+Management of the risk of backorders in a MTO–ATO/MTS context under imperfect requirements
+Romain Guillaume, Bernard Grabot, Caroline Thierry
+Modeling and identification of microbial batch fermentation using fuzzy expert system
+Jinggui Gao, Lei Wang, Enmin Feng, Zhilong Xiu
+Bogdanov–Takens bifurcation in an oscillator with negative damping and delayed position feedback
+Jiao Jiang, Yongli Song
+Ranking generalized fuzzy numbers in fuzzy decision making based on the left and right transfer coefficients and areas
+Vincent F. Yu, Ha Thi Xuan Chi, Luu Quoc Dat, Phan Nguyen Ky Phuc, Chien-wen Shen
+A new modification of the variational iteration method for van der Pol equations
+Yuan-Ju Huang, Hsuan-Ku Liu
+An SIR epidemic model with time-varying pulse control schemes and saturated infectious force
+Yuying He, Shujing Gao, Dehui Xie
+Robust optimal dynamic production/pricing policies in a closed-loop system
+Mahdi Mahmoudzadeh, Seyed Jafar Sadjadi, Saeed Mansour
+Linear and nonlinear stability analysis of binary viscoelastic fluid convection
+Mahesha Narayana, Precious Sibanda, Pradeep G. Siddheshwar, G. Jayalatha
+CFD simulation of gas–solid flow with a cluster structure-dependent drag coefficient model in circulating fluidized beds
+Wang Shuai, Lu Huang, Gao Jianmin, Lu Huilin, ... He Yurong
+Gradient based iterative parameter identification for Wiener nonlinear systems
+Lincheng Zhou, Xiangli Li, Feng Pan
+Image restoration with a high-order total variation minimization method
+Xiao-Guang Lv, Yong-Zhong Song, Shun-Xu Wang, Jiang Le
+Dynamical analysis and control strategies on malware propagation model
+Liping Feng, Xiaofeng Liao, Qi Han, Huaqing Li
+Stability and vibration analysis of axially-loaded shear beam-columns carrying elastically restrained mass
+H. Zhang, Y.A. Kang, X.F. Li
+Simultaneous identification of parameters and initial datum of reaction diffusion system by optimization method
+S. Gnanavel, N. Barani Balan, K. Balachandran
+Equilibrium balking strategies in Markovian queues with working vacations
+Feng Zhang, Jinting Wang, Bin Liu
+Issues 18-19
+An analytical theory for avoidance collision between space debris and operating satellites in LEO
+Yehia A. Abdel-Aziz
+Nonlinear bending analysis of FGM elliptical plates resting on two-parameter elastic foundations
+Da-Guang Zhang
+Analytical solutions of refined plate theory for bending, buckling and vibration analyses of thick plates
+Huu-Tai Thai, Dong-Ho Choi
+Post-buckling and nonlinear free vibration analysis of geometrically imperfect functionally graded beams resting on nonlinear elastic foundation
+Hessameddin Yaghoobi, Mohsen Torabi
+Solving fixed charge transportation problem with interval parameters
+M.R. Safi, A. Razmjoo
+The impact of stock-dependent demand on supply chain dynamics
+Yongchang Wei, Hongwei Wang, Chao Qi
+Nonlinear forced vibration of strain gradient microbeams
+R. Vatankhah, M.H. Kahrobaiyan, A. Alasty, M.T. Ahmadian
+Contact problem for a thin elastic layer with variable thickness: Application to sensitivity analysis of articular contact mechanics
+I. Argatov
+Single machine SLK/DIF due window assignment problem with learning effect and deteriorating jobs
+Ji-Bo Wang, Lu Liu, Cheng Wang
+Static snapping load of a hinged extensible elastica
+Jen-San Chen, Huai-Wen Tsao
+Equations of anisotropic elastodynamics in 3D quasicrystals as a symmetric hyperbolic system: Deriving the time-dependent fundamental solutions
+H. Çerdik Yaslan
+Genetic algorithm to the machine repair problem with two removable servers operating under the triadic (0, Q, N, M) policy
+Cheng-Dar Liou, Kuo-Hsiung Wang, Meng-Wei Liou
+Combined classical and generalized integral transform approaches for the analysis of the dynamic behavior of a damaged structure
+Carlos Frederico T. Matt
+The modelling of oxide film entrainment in casting systems using computational modelling
+C. Reilly, N.R. Green, M.R. Jolly, J.-C. Gebelin
+Dynamic dairy facility location and supply chain planning under traffic congestion and demand uncertainty: A case study of Tehran
+Javid Jouzdani, Seyed Jafar Sadjadi, Mohammad Fathian
+Analysis of functionally graded plates using higher order shear deformation theory
+M.N.A. Gulshan Taj, Anupam Chakrabarti, Abdul Hamid Sheikh
+Large-amplitude free vibrations of functionally graded beams by means of a finite element formulation
+M. Hemmatnezhad, R. Ansari, G.H. Rahimi
+A new more consistent Reynolds model for piezoviscous hydrodynamic lubrication problems in line contact devices
+Guy Bayada, Begoña Cid, Guillermo García, Carlos Vázquez
+Tikhonov regularization method for a backward problem for the time-fractional diffusion equation
+Jun-Gang Wang, Ting Wei, Yu-Bin Zhou
+Upscaling of solute transport in heterogeneous media with non-uniform flow and dispersion fields
+Zhijie Xu, Paul Meakin
+A new Orthonormal Polynomial Series Expansion Method in vibration analysis of thin beams with non-uniform thickness
+Mohsen Ebrahimzadeh Hassanabadi, Ali Nikkhoo, Javad Vaseghi Amiri, Bahman Mehri
+Capturing coalescence and break-up processes in vertical gas–liquid flows: Assessment of population balance methods
+L. Deju, S.C.P. Cheung, G.H. Yeoh, J.Y. Tu
+Numerical solution of the system of second-order boundary value problems using the local radial basis functions based differential quadrature collocation method
+Mehdi Dehghan, Ahmad Nikpour
+Investigating the effect of various nanoparticle and base liquid types on the nanofluids heat and fluid flow in a microchannel
+Mohammad Kalteh
+Reducing mosquito-borne disease outbreak size: The relative importance of contact and transmissibility in a network model
+Luis F. Gordillo
+Learning effects and the phenomenon of moving bottlenecks in a two-stage production system
+Christoph H. Glock, Mohamad Y. Jaber
+Analysis of vibration effects on the comfort of intercity bus users by oscillatory model with ten degrees of freedom
+Dragan Sekulić, Vlastimir Dedović, Srdjan Rusov, Slaviša Šalinić, Aleksandar Obradović
+Issues 20-21
+Inter-comparison and validation of computational fluid dynamics codes in two-stage meandering channel flows
+Ponnambalam Rameshwaran, Pamela Naden, Catherine A.M.E. Wilson, Rami Malki, ... Koji Shiono
+Global stability of deterministic and stochastic multigroup SEIQR models in computer network
+Zhigang Wang, Xiaoming Fan, Qixing Han
+A new modified Adomian decomposition method and its multistage form for solving nonlinear boundary value problems with Robin boundary conditions
+Jun-Sheng Duan, Randolph Rach, Abdul-Majid Wazwaz, Temuer Chaolu, Zhong Wang
+Boundary stabilization of non-classical micro-scale beams
+Ramin Vatankhah, Ali Najafi, Hassan Salarieh, Aria Alasty
+Free vibration analysis of a finite-length isotropic solid elliptic cylinder using exact three dimensional elasticity theory
+Seyyed M. Hasheminejad, Ali Ghaheri
+An efficient method to set up a Lanczos based preconditioner for discrete ill-posed problems
+Shervan Erfani, Ali Tavakoli, Davod Khojasteh Salkuyeh
+High-order tetrahedral finite elements applied to large deformation analysis of functionally graded rubber-like materials
+J.P. Pascon, H.B. Coda
+Microstructure analysis on IN 718 alloy round rod by FEM in the hot continuous rolling process
+Feng-li Sui, Yue Zuo, Xiang-hua Liu, Li-qing Chen
+Intermediate buffer analysis for a production system
+Shuyuan Gan, Zhisheng Zhang, Yifan Zhou, Jinfei Shi
+Coordination mechanism for capacity reservation by considering production time, production rate and order quantity
+Yahya Pezeshki, Mohammad R. Akbari Jokar, Armand Baboli, Jean-Pierre Campagne
+Outward melting of ice enhanced by Cu nanoparticles inside cylindrical horizontal annulus: Lattice Boltzmann approach
+Mahmoud Jourabian, Mousa Farhadi, Ahmad Ali Rabienataj Darzi
+A new impulsive synchronization criterion for T–S fuzzy model and its applications
+Hang Hua, Yang Liu, Jianquan Lu, Junting Zhu
+Numerical investigations of supercavitation around blunt bodies of submarine shape
+Zhi Shang
+Nonlinear time delay saturation-based controller for suppression of nonlinear beam vibrations
+N.A. Saeed, W.A. El-Ganini, M. Eissa
+Some scheduling problems with time-dependent learning effect and deteriorating jobs
+Chinyao Low, Wen-Yi Lin
+The homotopy analysis method for solving the time-fractional Fornberg–Whitham equation and comparison with Adomian’s decomposition method
+Mehmet Giyas Sakar, Fevzi Erdogan
+Analysis of MAP/PH1,PH2/1 queue with vacations and optional secondary services
+Srinivas R. Chakravarthy
+Chebyshev operational matrix method for solving multi-order fractional ordinary differential equations
+M.H. Atabakzadeh, M.H. Akrami, G.H. Erjaee
+Inventory model with deteriorating items, ramp-type demand and partially backlogged shortages for a two warehouse system
+Swati Agrawal, Snigdha Banerjee, Sotirios Papachristos
+Reduced order modelling for unsteady fluid flow using proper orthogonal decomposition and radial basis functions
+S. Walton, O. Hassan, K. Morgan
+Dynamic analysis of a fractional order prey–predator interaction with harvesting
+M. Javidi, N. Nyamoradi
+A robust optimization model for multi-product two-stage capacitated production planning under uncertainty
+Donya Rahmani, Reza Ramezanian, Parviz Fattahi, Mahdi Heydari
+Unsteady motion of a spherical bubble in a complex fluid: Mathematical modelling and simulation
+D.L. Albernaz, F.R. Cunha
+Meshless solution of two-dimensional incompressible flow problems using the radial basis integral equation method
+Ean Hin Ooi, Viktor Popov
+Rotational and voids effect on the reflection of P waves from stress-free surface of an elastic half-space under magnetic field and initial stress without energy dissipation
+S.M. Abo-Dahab, Baljeet Singh
+Stable coexistence mediated by specialist harvesting in a two zooplankton–phytoplankton system
+Yunfei Lv, Rong Yuan, Yongzhen Pei
+Projection method for multiple criteria group decision making with incomplete weight information in linguistic setting
+Yanbing Ju, Aihua Wang
+A simple four-unknown refined theory for bending analysis of functionally graded plates
+Ashraf M. Zenkour
+Model simulation and experiments of flow and mass transport through a nano-material gas filter
+Xiaofan Yang, Zhongquan Charlie Zheng, Slawomir Winecki, Steve Eckels
+Multiple states repetitive group sampling plans with process loss consideration
+Muhammad Aslam, Ching-Ho Yen, Chia-Hao Chang, Chi-Hyuck Jun
+Issue 22
+PQWs in complex plane: Application to Fredholm integral equations
+H. Beiglo, M. Gachpazan
+An analytical solution for dynamic behavior of a beam–column frame with a tip body
+Kyung Taek Lee
+Strip electro-mechanical yielding model for piezoelectric plate cut along two equal collinear cracks
+R.R. Bhargava, Kamlesh Jangid
+Integer programming models for hierarchical workforce scheduling problems including excess off-days and idle labour times
+Cemal Özgüven, Banu Sungur
+A low-Mach number method for the numerical simulation of complex flows
+M. Salinas-Vázquez, W. Vicente, E. Barrios, E. Martínez, ... A. Rodríguez
+A dual-uncertainty-based chance-constrained model for municipal solid waste management
+Feng Liu, Zhi Wen, Ye Xu
+An exponential approximation for solutions of generalized pantograph-delay differential equations
+Şuayip Yüzbaşı, Mehmet Sezer
+Vibrations of Timoshenko beams with isogeometric approach
+Sang Jin Lee, Kyoung Sub Park
+A memetic algorithm approach for solving the multidimensional multi-way number partitioning problem
+Petrică C. Pop, Oliviu Matei
+Complex evolution of a multi-particle system
+J.A. Tenreiro Machado
+A meshless method for Burgers’ equation using MQ-RBF and high-order temporal approximation
+Huantian Xie, Dingfang Li
+The busy period of an M/M/1 queue with balking and reneging
+Sherif I. Ammar, Mahmoud M. Helan, Faizah T. Al Amri
+Ranking fuzzy quantities based on the angle of the reference functions
+S.H. Nasseri, M.M. Zadeh, M. Kardoost, E. Behmanesh
+An improved isogeometrical analysis approach to functionally graded plane elasticity problems
+B. Hassani, A.H. Taheri, N.Z. Moghaddam
+A numerical method for solving linear integral equations of the second kind on the non-rectangular domains based on the meshless method
+Pouria Assari, Hojatollah Adibi, Mehdi Dehghan
+Pressure distribution in a porous squeeze film bearing lubricated by a Vočadlo fluid
+A. Walicka, P. Jurczak
+Supplier selection and order allocation problem using a two-phase fuzzy multi-objective linear programming
+Salman Nazari-Shirkouhi, Hamed Shakouri, Babak Javadi, Abbas Keramati
+Numerical modeling of 3-D flow on porous broad crested weirs
+Reza Mohammadpour, Aminuddin Ab. Ghani, Hazi Mohammad Azamathulla
+Simulation of the transverse vibrations of a cantilever beam with an eccentric tip mass in the axial direction using integral transforms
+Carlos Frederico T. Matt
+Torsional and longitudinal frequency and wave response of microtubules based on the nonlocal continuum and nonlocal discrete models
+Çigdem Demir, Ömer Civalek
+Mathematical modeling of solidification process near the inner core boundary of the Earth
+D.V. Alexandrov, A.P. Malygin
+The Sinc-collocation and Sinc-Galerkin methods for solving the two-dimensional Schrödinger equation with nonhomogeneous boundary conditions
+Mehdi Dehghan, Faezeh Emami-Naeini
+Analysis of the stress singularity for a bi-material V-notch by the boundary element method
+Changzheng Cheng, Zhongrong Niu, Naman Recho
+Wave propagation in thermo-chiral elastic medium
+S.K. Tomar, Aarti Khurana
+Fuzzy VIKOR approach for assessing the vulnerability of the water supply to climate change and variability in South Korea
+Yeonjoo Kim, Eun-Sung Chung
+Modeling the asymmetry in traffic flow (a): Microscopic approach
+Hao Xu, Hongchao Liu, Huaxin Gong
+Modeling the asymmetry in traffic flow (b): Macroscopic approach
+Hongchao Liu, Hao Xu, Huaxin Gong
+Issue 23
